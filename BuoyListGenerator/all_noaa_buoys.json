@@ -1,0 +1,5438 @@
+[
+  {
+    "stationId" : "13001",
+    "longitude" : -23,
+    "name" : "NE Extension",
+    "latitude" : 12
+  },
+  {
+    "stationId" : "13002",
+    "longitude" : -23,
+    "name" : "NE Extension",
+    "latitude" : 21
+  },
+  {
+    "stationId" : "13008",
+    "longitude" : -38,
+    "name" : "Reggae",
+    "latitude" : 15
+  },
+  {
+    "stationId" : "13009",
+    "longitude" : -38,
+    "name" : "Lambada",
+    "latitude" : 8
+  },
+  {
+    "stationId" : "13010",
+    "longitude" : 0,
+    "name" : "Soul",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "14040",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : -8
+  },
+  {
+    "stationId" : "14041",
+    "longitude" : 55,
+    "name" : "",
+    "latitude" : -8
+  },
+  {
+    "stationId" : "14043",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : -12
+  },
+  {
+    "stationId" : "14047",
+    "longitude" : 57,
+    "name" : "",
+    "latitude" : -4
+  },
+  {
+    "stationId" : "14048",
+    "longitude" : 65,
+    "name" : "",
+    "latitude" : -8
+  },
+  {
+    "stationId" : "14049",
+    "longitude" : 65,
+    "name" : "",
+    "latitude" : -12
+  },
+  {
+    "stationId" : "15001",
+    "longitude" : -10,
+    "name" : "Gavotte",
+    "latitude" : -10
+  },
+  {
+    "stationId" : "15002",
+    "longitude" : -10,
+    "name" : "Java",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "15006",
+    "longitude" : -10,
+    "name" : "Valse",
+    "latitude" : -6
+  },
+  {
+    "stationId" : "15007",
+    "longitude" : 8,
+    "name" : "SE Extension",
+    "latitude" : -6
+  },
+  {
+    "stationId" : "21178",
+    "longitude" : 133.62,
+    "name" : "South of Shikoku",
+    "latitude" : 33.12
+  },
+  {
+    "stationId" : "21346",
+    "longitude" : 146.192,
+    "name" : "21346  380km East of Iwate, Japan",
+    "latitude" : 40.302
+  },
+  {
+    "stationId" : "21347",
+    "longitude" : 145.799,
+    "name" : "21347  320km East of Iwate, Japan",
+    "latitude" : 39.601
+  },
+  {
+    "stationId" : "21348",
+    "longitude" : 145.595,
+    "name" : "21348   350km East of Miyagi, Japan",
+    "latitude" : 38.816
+  },
+  {
+    "stationId" : "21401",
+    "longitude" : 152.583,
+    "name" : "250NM Southeast of Iturup Island",
+    "latitude" : 42.617
+  },
+  {
+    "stationId" : "21413",
+    "longitude" : 152.124,
+    "name" : "SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",
+    "latitude" : 30.487
+  },
+  {
+    "stationId" : "21414",
+    "longitude" : 178.165,
+    "name" : "AMCHITKA - 170 NM South of Amchitka, AK",
+    "latitude" : 48.97
+  },
+  {
+    "stationId" : "21415",
+    "longitude" : 171.867,
+    "name" : "ATTU - 175 NM South of Attu, AK",
+    "latitude" : 50.12
+  },
+  {
+    "stationId" : "21416",
+    "longitude" : 163.355,
+    "name" : "KAMCHATKA PENINSULA - 240NM SE of Kamchatka Peninsula, RU",
+    "latitude" : 48.126
+  },
+  {
+    "stationId" : "21417",
+    "longitude" : 157.142,
+    "name" : "290NM SE of the Kuril Islands",
+    "latitude" : 43.192
+  },
+  {
+    "stationId" : "21418",
+    "longitude" : 148.8,
+    "name" : "NORTHEAST TOKYO - 450 NM NE of Tokyo, JP",
+    "latitude" : 38.73
+  },
+  {
+    "stationId" : "21419",
+    "longitude" : 155.653,
+    "name" : "KURIL ISLANDS - 209NM SE of Kuril Is.",
+    "latitude" : 44.401
+  },
+  {
+    "stationId" : "21420",
+    "longitude" : 134.973,
+    "name" : "SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki",
+    "latitude" : 28.98
+  },
+  {
+    "stationId" : "21595",
+    "longitude" : -132.167,
+    "name" : "Drifter",
+    "latitude" : 36.7
+  },
+  {
+    "stationId" : "21597",
+    "longitude" : 155.2,
+    "name" : "Drifter",
+    "latitude" : 32.8
+  },
+  {
+    "stationId" : "21598",
+    "longitude" : 152.7,
+    "name" : "Drifter",
+    "latitude" : 31.3
+  },
+  {
+    "stationId" : "21600",
+    "longitude" : 154.5,
+    "name" : "Drifter",
+    "latitude" : 40.7
+  },
+  {
+    "stationId" : "21636",
+    "longitude" : 127.4,
+    "name" : "Drifter",
+    "latitude" : 31.5
+  },
+  {
+    "stationId" : "21637",
+    "longitude" : 141.25,
+    "name" : "Drifter",
+    "latitude" : 29.3
+  },
+  {
+    "stationId" : "21640",
+    "longitude" : 135.5,
+    "name" : "Drifter",
+    "latitude" : 28.3
+  },
+  {
+    "stationId" : "21707",
+    "longitude" : 136,
+    "name" : "",
+    "latitude" : 25
+  },
+  {
+    "stationId" : "21d13",
+    "longitude" : 152.123,
+    "name" : "SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",
+    "latitude" : 30.514
+  },
+  {
+    "stationId" : "21d20",
+    "longitude" : 134.999,
+    "name" : "Adrift buoy from 21420",
+    "latitude" : 28.91
+  },
+  {
+    "stationId" : "22101",
+    "longitude" : 126.02,
+    "name" : "",
+    "latitude" : 37.23
+  },
+  {
+    "stationId" : "22102",
+    "longitude" : 125.77,
+    "name" : "",
+    "latitude" : 34.8
+  },
+  {
+    "stationId" : "22103",
+    "longitude" : 127.5,
+    "name" : "",
+    "latitude" : 34
+  },
+  {
+    "stationId" : "22104",
+    "longitude" : 128.9,
+    "name" : "",
+    "latitude" : 34.77
+  },
+  {
+    "stationId" : "22105",
+    "longitude" : 130,
+    "name" : "",
+    "latitude" : 37.53
+  },
+  {
+    "stationId" : "22106",
+    "longitude" : 129.78,
+    "name" : "",
+    "latitude" : 36.35
+  },
+  {
+    "stationId" : "22107",
+    "longitude" : 126.03,
+    "name" : "",
+    "latitude" : 33.08
+  },
+  {
+    "stationId" : "22108",
+    "longitude" : 125.75,
+    "name" : "",
+    "latitude" : 36.25
+  },
+  {
+    "stationId" : "23001",
+    "longitude" : 81,
+    "name" : "",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "23003",
+    "longitude" : 81,
+    "name" : "",
+    "latitude" : -2
+  },
+  {
+    "stationId" : "23004",
+    "longitude" : 90,
+    "name" : "",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "23006",
+    "longitude" : 90,
+    "name" : "",
+    "latitude" : 4
+  },
+  {
+    "stationId" : "23007",
+    "longitude" : 90,
+    "name" : "",
+    "latitude" : 8
+  },
+  {
+    "stationId" : "23008",
+    "longitude" : 90,
+    "name" : "",
+    "latitude" : 12
+  },
+  {
+    "stationId" : "23009",
+    "longitude" : 90,
+    "name" : "",
+    "latitude" : 15
+  },
+  {
+    "stationId" : "23010",
+    "longitude" : 81,
+    "name" : "",
+    "latitude" : -4
+  },
+  {
+    "stationId" : "23011",
+    "longitude" : 65,
+    "name" : "",
+    "latitude" : 15
+  },
+  {
+    "stationId" : "23012",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : 8
+  },
+  {
+    "stationId" : "23013",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : 4
+  },
+  {
+    "stationId" : "23014",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : 2
+  },
+  {
+    "stationId" : "23015",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "23016",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : -2
+  },
+  {
+    "stationId" : "23017",
+    "longitude" : 67,
+    "name" : "",
+    "latitude" : -4
+  },
+  {
+    "stationId" : "23019",
+    "longitude" : 65,
+    "name" : "",
+    "latitude" : -4
+  },
+  {
+    "stationId" : "23020",
+    "longitude" : 38.5,
+    "name" : "Red Sea",
+    "latitude" : 22.162
+  },
+  {
+    "stationId" : "23217",
+    "longitude" : 91.701,
+    "name" : "Bay of Bengal IN3",
+    "latitude" : 3.798
+  },
+  {
+    "stationId" : "23218",
+    "longitude" : 88.5,
+    "name" : "Bay of Bengal IN4",
+    "latitude" : 10.165
+  },
+  {
+    "stationId" : "23219",
+    "longitude" : 88.998,
+    "name" : "Bay of Bengal",
+    "latitude" : 13.472
+  },
+  {
+    "stationId" : "23220",
+    "longitude" : 89.333,
+    "name" : "Bay of Bengal",
+    "latitude" : 14.433
+  },
+  {
+    "stationId" : "23223",
+    "longitude" : 89.483,
+    "name" : "Bay of Bengal",
+    "latitude" : 17.333
+  },
+  {
+    "stationId" : "23225",
+    "longitude" : 67.18,
+    "name" : "",
+    "latitude" : 18.63
+  },
+  {
+    "stationId" : "23226",
+    "longitude" : 67.333,
+    "name" : "Arabian Sea",
+    "latitude" : 20.2
+  },
+  {
+    "stationId" : "23227",
+    "longitude" : 88.653,
+    "name" : "Bay of Bengal",
+    "latitude" : 6.265
+  },
+  {
+    "stationId" : "23228",
+    "longitude" : 65.284,
+    "name" : "Arabian Sea",
+    "latitude" : 20.764
+  },
+  {
+    "stationId" : "23401",
+    "longitude" : 88.55,
+    "name" : "BAY OF BENGAL - 600 NM WNW of Phuket, Thailand",
+    "latitude" : 8.86
+  },
+  {
+    "stationId" : "28401",
+    "longitude" : 144.54,
+    "name" : "Kuroshio Extension Observatory (KEO)",
+    "latitude" : 32.384
+  },
+  {
+    "stationId" : "31001",
+    "longitude" : -35,
+    "name" : "Samba",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "31002",
+    "longitude" : -38,
+    "name" : "Frevo",
+    "latitude" : 4
+  },
+  {
+    "stationId" : "31003",
+    "longitude" : -30,
+    "name" : "Para?ba",
+    "latitude" : -8
+  },
+  {
+    "stationId" : "31004",
+    "longitude" : -32,
+    "name" : "Salvador",
+    "latitude" : -14
+  },
+  {
+    "stationId" : "31005",
+    "longitude" : -34,
+    "name" : "Espirito Santo",
+    "latitude" : -19
+  },
+  {
+    "stationId" : "31006",
+    "longitude" : -23,
+    "name" : "NE Extension",
+    "latitude" : 4
+  },
+  {
+    "stationId" : "31007",
+    "longitude" : -23,
+    "name" : "Jazz",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "31051",
+    "longitude" : -44.933,
+    "name" : "Santos",
+    "latitude" : -25.283
+  },
+  {
+    "stationId" : "31052",
+    "longitude" : -34.567,
+    "name" : "RECIFE",
+    "latitude" : -8.15
+  },
+  {
+    "stationId" : "31053",
+    "longitude" : -51.353,
+    "name" : "RIO GRANDE DO SUL",
+    "latitude" : -32.595
+  },
+  {
+    "stationId" : "31201",
+    "longitude" : -48.134,
+    "name" : "Floripa, Brazil (109)",
+    "latitude" : -27.705
+  },
+  {
+    "stationId" : "31260",
+    "longitude" : -43.088,
+    "name" : "",
+    "latitude" : -23.031
+  },
+  {
+    "stationId" : "31261",
+    "longitude" : -49.862,
+    "name" : "",
+    "latitude" : -31.538
+  },
+  {
+    "stationId" : "31478",
+    "longitude" : -43.132,
+    "name" : "",
+    "latitude" : -22.882
+  },
+  {
+    "stationId" : "32012",
+    "longitude" : -85.078,
+    "name" : "Woods Hole Stratus Wave Station",
+    "latitude" : -19.425
+  },
+  {
+    "stationId" : "3202520",
+    "longitude" : -89.008,
+    "name" : "San Cristobal - Galapagos (B1-S)",
+    "latitude" : -4.148
+  },
+  {
+    "stationId" : "3202521",
+    "longitude" : -81.386,
+    "name" : "Isabela - Galapagos (B2-W)",
+    "latitude" : -0.525
+  },
+  {
+    "stationId" : "32066",
+    "longitude" : -81.765,
+    "name" : "Ecuador INOCAR",
+    "latitude" : -1.136
+  },
+  {
+    "stationId" : "32067",
+    "longitude" : -81.262,
+    "name" : "ECUADOR INOCAR",
+    "latitude" : 0.641
+  },
+  {
+    "stationId" : "32068",
+    "longitude" : -81.637,
+    "name" : "Manta - 58 NM West of Manta, Ecuador",
+    "latitude" : -0.891
+  },
+  {
+    "stationId" : "32069",
+    "longitude" : -81.185,
+    "name" : "Esmeraldas - 71 NM West of Pedernales, Ecuador",
+    "latitude" : 0.278
+  },
+  {
+    "stationId" : "32301",
+    "longitude" : -105.2,
+    "name" : "",
+    "latitude" : -9.9
+  },
+  {
+    "stationId" : "32302",
+    "longitude" : -85.1,
+    "name" : "",
+    "latitude" : -18
+  },
+  {
+    "stationId" : "32401",
+    "longitude" : -73.422,
+    "name" : "180 NM West of Iquique, Chile",
+    "latitude" : -20.442
+  },
+  {
+    "stationId" : "32402",
+    "longitude" : -73.983,
+    "name" : "180 NM  West of Caldera, Chile",
+    "latitude" : -26.743
+  },
+  {
+    "stationId" : "32403",
+    "longitude" : -72.037,
+    "name" : "91NM West of Antofagasta, Chile",
+    "latitude" : -23.163
+  },
+  {
+    "stationId" : "32404",
+    "longitude" : -73.797,
+    "name" : "120 NM NW of Valparaiso",
+    "latitude" : -32.13
+  },
+  {
+    "stationId" : "32411",
+    "longitude" : -90.793,
+    "name" : "WEST PANAMA - 710 NM WSW of Panama City, Panama",
+    "latitude" : 4.979
+  },
+  {
+    "stationId" : "32412",
+    "longitude" : -86.374,
+    "name" : "SOUTHWEST LIMA - 645 NM SW of Lima, Peru",
+    "latitude" : -17.984
+  },
+  {
+    "stationId" : "32413",
+    "longitude" : -93.464,
+    "name" : "NORTHWEST LIMA - 1000 NM WNW of Lima, Peru",
+    "latitude" : -7.432
+  },
+  {
+    "stationId" : "32487",
+    "longitude" : -77.737,
+    "name" : "Buenaventura, Colombia",
+    "latitude" : 3.517
+  },
+  {
+    "stationId" : "32488",
+    "longitude" : -77.511,
+    "name" : "Bahia Solano, Colombia",
+    "latitude" : 6.258
+  },
+  {
+    "stationId" : "32489",
+    "longitude" : -79.101,
+    "name" : "Colombia   121NM SW of Buenaventura, Colombia",
+    "latitude" : 2.998
+  },
+  {
+    "stationId" : "32d12",
+    "longitude" : -86.33,
+    "name" : "SOUTHWEST LIMA 645NM SW of Lima, Peru",
+    "latitude" : -17.98
+  },
+  {
+    "stationId" : "32d13",
+    "longitude" : -93.48,
+    "name" : "ADRIFT BUOY FROM 32413",
+    "latitude" : -7.43
+  },
+  {
+    "stationId" : "34002",
+    "longitude" : -90,
+    "name" : "OOI Southern Ocean Buoy",
+    "latitude" : -55
+  },
+  {
+    "stationId" : "34420",
+    "longitude" : -75.243,
+    "name" : "119NM NW of Concepcion, Chile",
+    "latitude" : -35.758
+  },
+  {
+    "stationId" : "41001",
+    "longitude" : -72.42,
+    "name" : "EAST HATTERAS - 150 NM East of Cape Hatteras",
+    "latitude" : 34.791
+  },
+  {
+    "stationId" : "41002",
+    "longitude" : -74.955,
+    "name" : "SOUTH HATTERAS - 225 NM South of Cape Hatteras",
+    "latitude" : 31.743
+  },
+  {
+    "stationId" : "41003",
+    "longitude" : -80.1,
+    "name" : "",
+    "latitude" : 30.4
+  },
+  {
+    "stationId" : "41004",
+    "longitude" : -79.099,
+    "name" : "EDISTO - 41 NM Southeast of Charleston, SC",
+    "latitude" : 32.502
+  },
+  {
+    "stationId" : "41005",
+    "longitude" : -79.7,
+    "name" : "",
+    "latitude" : 31.7
+  },
+  {
+    "stationId" : "41006",
+    "longitude" : -77.4,
+    "name" : "",
+    "latitude" : 29.3
+  },
+  {
+    "stationId" : "41007",
+    "longitude" : -76.5,
+    "name" : "",
+    "latitude" : 34.2
+  },
+  {
+    "stationId" : "41008",
+    "longitude" : -80.866,
+    "name" : "GRAYS REEF - 40 NM Southeast of Savannah, GA",
+    "latitude" : 31.4
+  },
+  {
+    "stationId" : "41009",
+    "longitude" : -80.185,
+    "name" : "CANAVERAL 20 NM East of Cape Canaveral, FL",
+    "latitude" : 28.508
+  },
+  {
+    "stationId" : "41010",
+    "longitude" : -78.467,
+    "name" : "CANAVERAL EAST - 120NM East of Cape Canaveral",
+    "latitude" : 28.878
+  },
+  {
+    "stationId" : "41011",
+    "longitude" : -80.1,
+    "name" : "",
+    "latitude" : 28.2
+  },
+  {
+    "stationId" : "41012",
+    "longitude" : -80.534,
+    "name" : "St. Augustine, FL 40NM ENE of St Augustine, FL",
+    "latitude" : 30.042
+  },
+  {
+    "stationId" : "41013",
+    "longitude" : -77.764,
+    "name" : "Frying Pan Shoals, NC",
+    "latitude" : 33.441
+  },
+  {
+    "stationId" : "41015",
+    "longitude" : -75.3,
+    "name" : "",
+    "latitude" : 35.4
+  },
+  {
+    "stationId" : "41016",
+    "longitude" : -76.5,
+    "name" : "",
+    "latitude" : 24.6
+  },
+  {
+    "stationId" : "41017",
+    "longitude" : -75.1,
+    "name" : "",
+    "latitude" : 35.4
+  },
+  {
+    "stationId" : "41018",
+    "longitude" : -75,
+    "name" : "",
+    "latitude" : 15
+  },
+  {
+    "stationId" : "41021",
+    "longitude" : -80.85,
+    "name" : "Olympic Northeast",
+    "latitude" : 31.92
+  },
+  {
+    "stationId" : "41022",
+    "longitude" : -80.86,
+    "name" : "Olympic Southwest",
+    "latitude" : 31.89
+  },
+  {
+    "stationId" : "41023",
+    "longitude" : -80.93,
+    "name" : "Olympic Southwest",
+    "latitude" : 31.92
+  },
+  {
+    "stationId" : "41024",
+    "longitude" : -78.477,
+    "name" : "Sunset Nearshore, NC (SUN2)",
+    "latitude" : 33.837
+  },
+  {
+    "stationId" : "41025",
+    "longitude" : -75.38,
+    "name" : "Diamond Shoals, NC",
+    "latitude" : 35.026
+  },
+  {
+    "stationId" : "41026",
+    "longitude" : -38,
+    "name" : "Forro",
+    "latitude" : 12
+  },
+  {
+    "stationId" : "41027",
+    "longitude" : -78.137,
+    "name" : "Sunset Mid-Shelf (SUN 3)",
+    "latitude" : 33.302
+  },
+  {
+    "stationId" : "41029",
+    "longitude" : -79.624,
+    "name" : "Capers Nearshore, SC (CAP2)",
+    "latitude" : 32.803
+  },
+  {
+    "stationId" : "41030",
+    "longitude" : -79.34,
+    "name" : "Capers Mid-Shelf (CAP 3)",
+    "latitude" : 32.52
+  },
+  {
+    "stationId" : "41033",
+    "longitude" : -80.406,
+    "name" : "Fripp Nearshore, SC (FRP2)",
+    "latitude" : 32.279
+  },
+  {
+    "stationId" : "41035",
+    "longitude" : -77.28,
+    "name" : "Onslow Bay Inner, NC",
+    "latitude" : 34.476
+  },
+  {
+    "stationId" : "41036",
+    "longitude" : -76.949,
+    "name" : "Onslow Bay Outer, NC",
+    "latitude" : 34.207
+  },
+  {
+    "stationId" : "41037",
+    "longitude" : -77.362,
+    "name" : "Wrightsville Beach Offshore, NC (ILM3)",
+    "latitude" : 33.988
+  },
+  {
+    "stationId" : "41038",
+    "longitude" : -77.715,
+    "name" : "Wrightsville Beach Nearshore, NC (ILM2)",
+    "latitude" : 34.141
+  },
+  {
+    "stationId" : "41040",
+    "longitude" : -53.136,
+    "name" : "NORTH EQUATORIAL ONE- 470 NM East of Martinique",
+    "latitude" : 14.536
+  },
+  {
+    "stationId" : "41041",
+    "longitude" : -46.327,
+    "name" : "NORTH EQUATORIAL TWO - 890 NM East of Martinique",
+    "latitude" : 14.453
+  },
+  {
+    "stationId" : "41043",
+    "longitude" : -64.864,
+    "name" : "NE PUERTO RICO - 170 NM NNE of San Juan, PR",
+    "latitude" : 21.09
+  },
+  {
+    "stationId" : "41044",
+    "longitude" : -58.63,
+    "name" : "NE ST MARTIN - 330 NM NE St Martin Is",
+    "latitude" : 21.582
+  },
+  {
+    "stationId" : "41046",
+    "longitude" : -68.34,
+    "name" : "EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas",
+    "latitude" : 23.84
+  },
+  {
+    "stationId" : "41047",
+    "longitude" : -71.48,
+    "name" : "NE BAHAMAS - 350 NM ENE of Nassau, Bahamas",
+    "latitude" : 27.557
+  },
+  {
+    "stationId" : "41048",
+    "longitude" : -69.573,
+    "name" : "WEST BERMUDA - 240 NM West of Bermuda - Jen's Station",
+    "latitude" : 31.831
+  },
+  {
+    "stationId" : "41049",
+    "longitude" : -62.271,
+    "name" : "SOUTH BERMUDA - 300 NM SSE of Bermuda",
+    "latitude" : 27.505
+  },
+  {
+    "stationId" : "41051",
+    "longitude" : -65.004,
+    "name" : "South of St. Thomas, VI",
+    "latitude" : 18.257
+  },
+  {
+    "stationId" : "41052",
+    "longitude" : -64.763,
+    "name" : "South of St. John, VI",
+    "latitude" : 18.249
+  },
+  {
+    "stationId" : "41053",
+    "longitude" : -66.099,
+    "name" : "San Juan, PR",
+    "latitude" : 18.474
+  },
+  {
+    "stationId" : "41056",
+    "longitude" : -65.464,
+    "name" : "Vieques Island, PR",
+    "latitude" : 18.261
+  },
+  {
+    "stationId" : "41057",
+    "longitude" : -70.731,
+    "name" : "Puerto Plata, DO",
+    "latitude" : 19.833
+  },
+  {
+    "stationId" : "41058",
+    "longitude" : -65.157,
+    "name" : "North of St. Thomas, VI",
+    "latitude" : 18.476
+  },
+  {
+    "stationId" : "41060",
+    "longitude" : -51.017,
+    "name" : "Woods Hole Northwest Tropical Atlantic Wave Station",
+    "latitude" : 14.824
+  },
+  {
+    "stationId" : "41061",
+    "longitude" : -38,
+    "name" : "Woods Hole SPURS Wave Station",
+    "latitude" : 24.581
+  },
+  {
+    "stationId" : "41062",
+    "longitude" : -75.095,
+    "name" : "Hatteras Bay (B1)",
+    "latitude" : 35.778
+  },
+  {
+    "stationId" : "41063",
+    "longitude" : -75.941,
+    "name" : "Raleigh Bay (B2)",
+    "latitude" : 34.782
+  },
+  {
+    "stationId" : "41064",
+    "longitude" : -76.949,
+    "name" : "Onslow Bay Outer, NC (LEJ3)",
+    "latitude" : 34.207
+  },
+  {
+    "stationId" : "41065",
+    "longitude" : -79.619,
+    "name" : "Capers Nearshore Waves (CAP2WAVE)",
+    "latitude" : 32.802
+  },
+  {
+    "stationId" : "41066",
+    "longitude" : -79.656,
+    "name" : "CHR60",
+    "latitude" : 32.536
+  },
+  {
+    "stationId" : "41067",
+    "longitude" : -80.406,
+    "name" : "FRP2WAVE",
+    "latitude" : 32.276
+  },
+  {
+    "stationId" : "41068",
+    "longitude" : -80.189,
+    "name" : "Fort Pierce, FL (FTP)",
+    "latitude" : 27.593
+  },
+  {
+    "stationId" : "41069",
+    "longitude" : -80.803,
+    "name" : "Ponce de Leon Inlet, FL (PNC)",
+    "latitude" : 29.289
+  },
+  {
+    "stationId" : "41070",
+    "longitude" : -80.803,
+    "name" : "Ponce de Leon Inlet Waves (PNCWAVE)",
+    "latitude" : 29.289
+  },
+  {
+    "stationId" : "41076",
+    "longitude" : -79.659,
+    "name" : "CHR60WAVE",
+    "latitude" : 32.536
+  },
+  {
+    "stationId" : "41082",
+    "longitude" : -75.125,
+    "name" : "OOI Pioneer - Mid-Atlantic Bight Central Surface Mooring",
+    "latitude" : 35.95
+  },
+  {
+    "stationId" : "41083",
+    "longitude" : -74.853,
+    "name" : "OOI Pioneer - Mid-Atlantic Bight Southern Surface Mooring",
+    "latitude" : 35.725
+  },
+  {
+    "stationId" : "41096",
+    "longitude" : -61.404,
+    "name" : "North of Guadeloupe",
+    "latitude" : 16.533
+  },
+  {
+    "stationId" : "41097",
+    "longitude" : -61.096,
+    "name" : "Fort-de-France, Martinique",
+    "latitude" : 14.48
+  },
+  {
+    "stationId" : "41098",
+    "longitude" : -61.113,
+    "name" : "North of Martinique",
+    "latitude" : 14.894
+  },
+  {
+    "stationId" : "41100",
+    "longitude" : -57.883,
+    "name" : "East of Guadeloupe",
+    "latitude" : 15.9
+  },
+  {
+    "stationId" : "41101",
+    "longitude" : -56.201,
+    "name" : "East of Martinique",
+    "latitude" : 14.6
+  },
+  {
+    "stationId" : "41108",
+    "longitude" : -78.016,
+    "name" : "Wilmington Harbor, NC - (200)",
+    "latitude" : 33.721
+  },
+  {
+    "stationId" : "41109",
+    "longitude" : -77.3,
+    "name" : "New River Inlet, NC - (190)",
+    "latitude" : 34.484
+  },
+  {
+    "stationId" : "41110",
+    "longitude" : -77.715,
+    "name" : "Masonboro Inlet, ILM2, NC (150)",
+    "latitude" : 34.142
+  },
+  {
+    "stationId" : "41112",
+    "longitude" : -81.292,
+    "name" : "Offshore Fernandina Beach, FL (132)",
+    "latitude" : 30.709
+  },
+  {
+    "stationId" : "41113",
+    "longitude" : -80.533,
+    "name" : "Cape Canaveral Nearshore, FL (143)",
+    "latitude" : 28.4
+  },
+  {
+    "stationId" : "41114",
+    "longitude" : -80.216,
+    "name" : "Fort Pierce, FL (134)",
+    "latitude" : 27.552
+  },
+  {
+    "stationId" : "41115",
+    "longitude" : -67.28,
+    "name" : "Rincon, Puerto Rico (181)",
+    "latitude" : 18.376
+  },
+  {
+    "stationId" : "41116",
+    "longitude" : -80.188,
+    "name" : "Oculina Bank North, FL (227)",
+    "latitude" : 28.523
+  },
+  {
+    "stationId" : "41117",
+    "longitude" : -81.079,
+    "name" : "St. Augustine, FL (194)",
+    "latitude" : 29.999
+  },
+  {
+    "stationId" : "41118",
+    "longitude" : -80.59,
+    "name" : "Chester Shoal, FL (228)",
+    "latitude" : 28.609
+  },
+  {
+    "stationId" : "41119",
+    "longitude" : -78.483,
+    "name" : "Sunset Beach, NC - (245)",
+    "latitude" : 33.842
+  },
+  {
+    "stationId" : "41120",
+    "longitude" : -75.285,
+    "name" : "Cape Hatteras East, NC (250)",
+    "latitude" : 35.258
+  },
+  {
+    "stationId" : "41121",
+    "longitude" : -66.701,
+    "name" : "Arecibo, Puerto Rico (249)",
+    "latitude" : 18.49
+  },
+  {
+    "stationId" : "41122",
+    "longitude" : -80.096,
+    "name" : "Hollywood Beach, FL (265)",
+    "latitude" : 26.001
+  },
+  {
+    "stationId" : "41139",
+    "longitude" : -38,
+    "name" : "",
+    "latitude" : 20
+  },
+  {
+    "stationId" : "41140",
+    "longitude" : -64.723,
+    "name" : "Christiansted, St. Croix, Virgin Islands",
+    "latitude" : 17.769
+  },
+  {
+    "stationId" : "41141",
+    "longitude" : -64.635,
+    "name" : "Fareham, St. Croix, Virgin Islands",
+    "latitude" : 17.684
+  },
+  {
+    "stationId" : "41159",
+    "longitude" : -76.944,
+    "name" : "Onslow Bay Outer, NC (217)",
+    "latitude" : 34.211
+  },
+  {
+    "stationId" : "41193",
+    "longitude" : -72.218,
+    "name" : "Puerto Bolivar, Colombia",
+    "latitude" : 12.351
+  },
+  {
+    "stationId" : "41194",
+    "longitude" : -74.681,
+    "name" : "Barranquilla, Colombia",
+    "latitude" : 11.161
+  },
+  {
+    "stationId" : "41420",
+    "longitude" : -67.386,
+    "name" : "NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO",
+    "latitude" : 23.433
+  },
+  {
+    "stationId" : "41421",
+    "longitude" : -63.888,
+    "name" : "NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is",
+    "latitude" : 23.407
+  },
+  {
+    "stationId" : "41424",
+    "longitude" : -72.66,
+    "name" : "EAST CHARLESTON - 370 NM East of Charleston, SC",
+    "latitude" : 33
+  },
+  {
+    "stationId" : "41425",
+    "longitude" : -65.774,
+    "name" : "SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda",
+    "latitude" : 28.639
+  },
+  {
+    "stationId" : "41554",
+    "longitude" : -64.743,
+    "name" : "",
+    "latitude" : 18.078
+  },
+  {
+    "stationId" : "41670",
+    "longitude" : -28.42,
+    "name" : "",
+    "latitude" : 24.71
+  },
+  {
+    "stationId" : "41852",
+    "longitude" : -24.02,
+    "name" : "",
+    "latitude" : 23.24
+  },
+  {
+    "stationId" : "41904",
+    "longitude" : 90.9,
+    "name" : "",
+    "latitude" : 3.017
+  },
+  {
+    "stationId" : "41933",
+    "longitude" : -12.8,
+    "name" : "",
+    "latitude" : 44.95
+  },
+  {
+    "stationId" : "41a46",
+    "longitude" : -68.333,
+    "name" : "EAST BAHAMAS - 335 NM East of San Salvador Is, Bahamas backup",
+    "latitude" : 23.838
+  },
+  {
+    "stationId" : "41b41",
+    "longitude" : -46.082,
+    "name" : "NORTH EQUATORIAL TWO - 890 NM East of Martinique",
+    "latitude" : 14.329
+  },
+  {
+    "stationId" : "41d20",
+    "longitude" : -67.345,
+    "name" : "Adrift from 41420",
+    "latitude" : 23.375
+  },
+  {
+    "stationId" : "41s43",
+    "longitude" : -64.856,
+    "name" : "170 NM NNE of San Juan, PR (SCP12)",
+    "latitude" : 21.132
+  },
+  {
+    "stationId" : "41s46",
+    "longitude" : -68.481,
+    "name" : "335 NM East of San Salvador Is, Bahamas (SCP10)",
+    "latitude" : 23.866
+  },
+  {
+    "stationId" : "41x01",
+    "longitude" : -72.522,
+    "name" : "Adrift from 41001, 150nm E of Cape Hatteras",
+    "latitude" : 34.502
+  },
+  {
+    "stationId" : "41x24",
+    "longitude" : -72.497,
+    "name" : "370 NM East of Charleston, SC",
+    "latitude" : 32.93
+  },
+  {
+    "stationId" : "41x46",
+    "longitude" : -68.384,
+    "name" : "Adrift buoy from 41046",
+    "latitude" : 23.822
+  },
+  {
+    "stationId" : "42001",
+    "longitude" : -89.662,
+    "name" : "MID GULF - 180 nm South of Southwest Pass, LA",
+    "latitude" : 25.926
+  },
+  {
+    "stationId" : "42002",
+    "longitude" : -93.78,
+    "name" : "WEST GULF - 207 NM East of Brownsville, TX",
+    "latitude" : 25.95
+  },
+  {
+    "stationId" : "42003",
+    "longitude" : -85.616,
+    "name" : "East GULF - 208 NM West of Naples, FL",
+    "latitude" : 25.925
+  },
+  {
+    "stationId" : "42004",
+    "longitude" : -85.5,
+    "name" : "",
+    "latitude" : 27.5
+  },
+  {
+    "stationId" : "42005",
+    "longitude" : -85.9,
+    "name" : "",
+    "latitude" : 30
+  },
+  {
+    "stationId" : "42006",
+    "longitude" : -96,
+    "name" : "",
+    "latitude" : 26.5
+  },
+  {
+    "stationId" : "42007",
+    "longitude" : -88.769,
+    "name" : "BILOXI - 22 NM SSE of Biloxi, MS",
+    "latitude" : 30.09
+  },
+  {
+    "stationId" : "42009",
+    "longitude" : -87.5,
+    "name" : "",
+    "latitude" : 29.3
+  },
+  {
+    "stationId" : "42012",
+    "longitude" : -87.548,
+    "name" : "ORANGE BEACH - 44 NM SE of Mobile, AL",
+    "latitude" : 30.06
+  },
+  {
+    "stationId" : "42013",
+    "longitude" : -82.924,
+    "name" : "C10 - WFS Central Buoy, 25m Isobath",
+    "latitude" : 27.173
+  },
+  {
+    "stationId" : "42014",
+    "longitude" : -82.22,
+    "name" : "C17 - W. FL Sea-Coos",
+    "latitude" : 25.254
+  },
+  {
+    "stationId" : "42015",
+    "longitude" : -88.2,
+    "name" : "",
+    "latitude" : 30.1
+  },
+  {
+    "stationId" : "42016",
+    "longitude" : -88.1,
+    "name" : "",
+    "latitude" : 30.2
+  },
+  {
+    "stationId" : "42017",
+    "longitude" : -90.9,
+    "name" : "",
+    "latitude" : 27.9
+  },
+  {
+    "stationId" : "42018",
+    "longitude" : -88.2,
+    "name" : "",
+    "latitude" : 30
+  },
+  {
+    "stationId" : "42019",
+    "longitude" : -95.343,
+    "name" : "FREEPORT, TX - 60 NM South of Freeport, TX",
+    "latitude" : 27.908
+  },
+  {
+    "stationId" : "42020",
+    "longitude" : -96.679,
+    "name" : "CORPUS CHRISTI, TX - 60NM SSE of Corpus Christi, TX",
+    "latitude" : 26.97
+  },
+  {
+    "stationId" : "42021",
+    "longitude" : -83.306,
+    "name" : "C14 - Pasco County Buoy, FL",
+    "latitude" : 28.311
+  },
+  {
+    "stationId" : "42022",
+    "longitude" : -83.741,
+    "name" : "C12 - WFS Central Buoy, 50m Isobath",
+    "latitude" : 27.505
+  },
+  {
+    "stationId" : "42023",
+    "longitude" : -83.086,
+    "name" : "C13 - WFS South Buoy, 50m Isobath",
+    "latitude" : 26.01
+  },
+  {
+    "stationId" : "42024",
+    "longitude" : -84.219,
+    "name" : "C16 - W. FL MERHAB",
+    "latitude" : 27.464
+  },
+  {
+    "stationId" : "42025",
+    "longitude" : -80.4,
+    "name" : "",
+    "latitude" : 24.9
+  },
+  {
+    "stationId" : "42026",
+    "longitude" : -83.475,
+    "name" : "C22 - Loop Current Pressure Point Buoy, 70m Isobath",
+    "latitude" : 25.171
+  },
+  {
+    "stationId" : "42031",
+    "longitude" : -88.212,
+    "name" : "West End CP, AL",
+    "latitude" : 30.09
+  },
+  {
+    "stationId" : "42035",
+    "longitude" : -94.41,
+    "name" : "GALVESTON,TX -  22 NM East of Galveston, TX",
+    "latitude" : 29.235
+  },
+  {
+    "stationId" : "42036",
+    "longitude" : -84.505,
+    "name" : "WEST TAMPA  - 112 NM WNW of Tampa, FL",
+    "latitude" : 28.5
+  },
+  {
+    "stationId" : "42037",
+    "longitude" : -81.4,
+    "name" : "",
+    "latitude" : 24.5
+  },
+  {
+    "stationId" : "42038",
+    "longitude" : -92.555,
+    "name" : "North Mid Gulf of America",
+    "latitude" : 27.421
+  },
+  {
+    "stationId" : "42039",
+    "longitude" : -86.007,
+    "name" : "PENSACOLA - 115NM SSE of Pensacola, FL",
+    "latitude" : 28.787
+  },
+  {
+    "stationId" : "42040",
+    "longitude" : -88.237,
+    "name" : "LUKE OFFSHORE TEST PLATFORM - 63 NM South of Dauphin Island, AL",
+    "latitude" : 29.207
+  },
+  {
+    "stationId" : "42041",
+    "longitude" : -90.462,
+    "name" : "North Mid Gulf 110NM South of Grand Isle, LA",
+    "latitude" : 27.504
+  },
+  {
+    "stationId" : "42042",
+    "longitude" : -88.32,
+    "name" : "Pascagoula",
+    "latitude" : 29.88
+  },
+  {
+    "stationId" : "42053",
+    "longitude" : -88.5,
+    "name" : "Pascagoula South",
+    "latitude" : 29.55
+  },
+  {
+    "stationId" : "42054",
+    "longitude" : -87.73,
+    "name" : "East Gulf",
+    "latitude" : 26
+  },
+  {
+    "stationId" : "42055",
+    "longitude" : -94.112,
+    "name" : "BAY OF CAMPECHE - 214 NM NE of Veracruz, MX",
+    "latitude" : 22.14
+  },
+  {
+    "stationId" : "42056",
+    "longitude" : -84.98,
+    "name" : "Yucatan Basin - 120 NM ESE of Cozumel, MX",
+    "latitude" : 19.82
+  },
+  {
+    "stationId" : "42057",
+    "longitude" : -81.578,
+    "name" : "Western Caribbean - 195 NM WSW of Negril, Jamaica",
+    "latitude" : 16.975
+  },
+  {
+    "stationId" : "42058",
+    "longitude" : -75.153,
+    "name" : "Central Caribbean - 210 NM SSE of Kingston, Jamaica",
+    "latitude" : 14.512
+  },
+  {
+    "stationId" : "42059",
+    "longitude" : -67.567,
+    "name" : "Eastern Caribbean Sea - 180 NM SSW of Ponce, PR",
+    "latitude" : 15.285
+  },
+  {
+    "stationId" : "42060",
+    "longitude" : -63.329,
+    "name" : "Caribbean Valley - 63 NM WSW of Montserrat",
+    "latitude" : 16.434
+  },
+  {
+    "stationId" : "42065",
+    "longitude" : -75.046,
+    "name" : "Near 42058 Central Caribbean",
+    "latitude" : 14.926
+  },
+  {
+    "stationId" : "42066",
+    "longitude" : -89.183,
+    "name" : "USM-R2",
+    "latitude" : 30.216
+  },
+  {
+    "stationId" : "42067",
+    "longitude" : -88.583,
+    "name" : "USM-R1",
+    "latitude" : 30.05
+  },
+  {
+    "stationId" : "42078",
+    "longitude" : -81.251,
+    "name" : "Big Pine Key, FL (237)",
+    "latitude" : 24.5
+  },
+  {
+    "stationId" : "42079",
+    "longitude" : -81.242,
+    "name" : "Bahia Honda Key, FL (242)",
+    "latitude" : 24.535
+  },
+  {
+    "stationId" : "42080",
+    "longitude" : -81.934,
+    "name" : "Offshore Sand Key, FL",
+    "latitude" : 24.396
+  },
+  {
+    "stationId" : "42084",
+    "longitude" : -89.649,
+    "name" : "Southwest Pass Entrance W, LA (256)",
+    "latitude" : 28.988
+  },
+  {
+    "stationId" : "42085",
+    "longitude" : -66.537,
+    "name" : "Southeast of Ponce, PR",
+    "latitude" : 17.87
+  },
+  {
+    "stationId" : "42087",
+    "longitude" : -60.848,
+    "name" : "Buccoo Reef, Buccoo Marine Park, TT",
+    "latitude" : 11.185
+  },
+  {
+    "stationId" : "42088",
+    "longitude" : -60.521,
+    "name" : "Angel Reef, TT",
+    "latitude" : 11.301
+  },
+  {
+    "stationId" : "42089",
+    "longitude" : -80.061,
+    "name" : "Little Cayman Research Center, CYM",
+    "latitude" : 19.699
+  },
+  {
+    "stationId" : "42090",
+    "longitude" : -69.58,
+    "name" : "Catuan Wreck, Boca Chica, DR",
+    "latitude" : 18.432
+  },
+  {
+    "stationId" : "42091",
+    "longitude" : -92.505,
+    "name" : "Trinity Shoal, LA (255)",
+    "latitude" : 29.088
+  },
+  {
+    "stationId" : "42092",
+    "longitude" : -97.011,
+    "name" : "Aransas Pass Channel Entrance S, TX (252)",
+    "latitude" : 27.64
+  },
+  {
+    "stationId" : "42093",
+    "longitude" : -89.832,
+    "name" : "Grand Isle Outer, LA (247)",
+    "latitude" : 29.017
+  },
+  {
+    "stationId" : "42094",
+    "longitude" : -89.907,
+    "name" : "Grand Isle, LA (246)",
+    "latitude" : 29.085
+  },
+  {
+    "stationId" : "42095",
+    "longitude" : -81.968,
+    "name" : "Satan Shoal, FL (244)",
+    "latitude" : 24.407
+  },
+  {
+    "stationId" : "42097",
+    "longitude" : -83.634,
+    "name" : "Pulley Ridge, FL (226)",
+    "latitude" : 25.708
+  },
+  {
+    "stationId" : "42098",
+    "longitude" : -82.931,
+    "name" : "Egmont Channel Entrance, FL (214)",
+    "latitude" : 27.59
+  },
+  {
+    "stationId" : "42099",
+    "longitude" : -84.275,
+    "name" : "Offshore St. Petersburg, FL (144)",
+    "latitude" : 27.352
+  },
+  {
+    "stationId" : "42354",
+    "longitude" : -88.643,
+    "name" : "Chandeleur Island SE, LA (279)",
+    "latitude" : 29.579
+  },
+  {
+    "stationId" : "42357",
+    "longitude" : -88.212,
+    "name" : "DISL Sofar Spotter",
+    "latitude" : 30.092
+  },
+  {
+    "stationId" : "42407",
+    "longitude" : -68.191,
+    "name" : "SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR",
+    "latitude" : 15.276
+  },
+  {
+    "stationId" : "42408",
+    "longitude" : -87,
+    "name" : "EAST GULF of AMERICA - 225NM WNW of Loggerhead Key, FL",
+    "latitude" : 25.2
+  },
+  {
+    "stationId" : "42409",
+    "longitude" : -89.291,
+    "name" : "GULF OF AMERICA - 247 NM South of New Orleans, LA",
+    "latitude" : 25.799
+  },
+  {
+    "stationId" : "42534",
+    "longitude" : -93.839,
+    "name" : "Moored Drifter",
+    "latitude" : 29.643
+  },
+  {
+    "stationId" : "42d09",
+    "longitude" : -89.264,
+    "name" : "Adrift buoy from 42409",
+    "latitude" : 25.911
+  },
+  {
+    "stationId" : "42x60",
+    "longitude" : -63.188,
+    "name" : "Caribbean Valley - 63 NM WSW of Montserrat",
+    "latitude" : 16.406
+  },
+  {
+    "stationId" : "43010",
+    "longitude" : -125.032,
+    "name" : "Woods Hole Spurs Wave Station",
+    "latitude" : 10.051
+  },
+  {
+    "stationId" : "43412",
+    "longitude" : -107,
+    "name" : "SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX",
+    "latitude" : 16.02
+  },
+  {
+    "stationId" : "43413",
+    "longitude" : -100.012,
+    "name" : "SOUTH ACAPULCO - 360NM South of Acapulco, MX",
+    "latitude" : 10.927
+  },
+  {
+    "stationId" : "44001",
+    "longitude" : -73.6,
+    "name" : "",
+    "latitude" : 38.7
+  },
+  {
+    "stationId" : "44003",
+    "longitude" : -68.5,
+    "name" : "",
+    "latitude" : 40.8
+  },
+  {
+    "stationId" : "44004",
+    "longitude" : -70.433,
+    "name" : "HOTEL 200NM East of Cape May,NJ",
+    "latitude" : 38.484
+  },
+  {
+    "stationId" : "44005",
+    "longitude" : -69.127,
+    "name" : "GULF OF MAINE - 78 NM East of Portsmouth, NH",
+    "latitude" : 43.201
+  },
+  {
+    "stationId" : "44006",
+    "longitude" : -75.4,
+    "name" : "",
+    "latitude" : 36.3
+  },
+  {
+    "stationId" : "44007",
+    "longitude" : -70.14,
+    "name" : "PORTLAND - 12 NM Southeast of Portland,ME",
+    "latitude" : 43.525
+  },
+  {
+    "stationId" : "44008",
+    "longitude" : -69.254,
+    "name" : "NANTUCKET 54 NM Southeast of Nantucket",
+    "latitude" : 40.5
+  },
+  {
+    "stationId" : "44009",
+    "longitude" : -74.692,
+    "name" : "DELAWARE BAY 26 NM Southeast of Cape May, NJ",
+    "latitude" : 38.46
+  },
+  {
+    "stationId" : "44010",
+    "longitude" : -75.7,
+    "name" : "",
+    "latitude" : 36.9
+  },
+  {
+    "stationId" : "44011",
+    "longitude" : -66.546,
+    "name" : "GEORGES BANK 170 NM East of Hyannis, MA",
+    "latitude" : 41.088
+  },
+  {
+    "stationId" : "44012",
+    "longitude" : -74.6,
+    "name" : "",
+    "latitude" : 38.8
+  },
+  {
+    "stationId" : "44013",
+    "longitude" : -70.651,
+    "name" : "BOSTON 16 NM East of Boston, MA",
+    "latitude" : 42.346
+  },
+  {
+    "stationId" : "44014",
+    "longitude" : -74.837,
+    "name" : "VIRGINIA BEACH 64 NM East of Virginia Beach, VA",
+    "latitude" : 36.603
+  },
+  {
+    "stationId" : "44015",
+    "longitude" : -73.4,
+    "name" : "",
+    "latitude" : 37.5
+  },
+  {
+    "stationId" : "44017",
+    "longitude" : -72.049,
+    "name" : "MONTAUK POINT - 23 NM SSW of Montauk Point, NY",
+    "latitude" : 40.693
+  },
+  {
+    "stationId" : "44018",
+    "longitude" : -70.154,
+    "name" : "CAPE COD - 9 NM North of Provincetown, MA",
+    "latitude" : 42.203
+  },
+  {
+    "stationId" : "44019",
+    "longitude" : -75.2,
+    "name" : "",
+    "latitude" : 36.4
+  },
+  {
+    "stationId" : "44020",
+    "longitude" : -70.283,
+    "name" : "NANTUCKET SOUND",
+    "latitude" : 41.497
+  },
+  {
+    "stationId" : "44021",
+    "longitude" : -69.988,
+    "name" : "Buoy D - New Meadows River",
+    "latitude" : 43.762
+  },
+  {
+    "stationId" : "44022",
+    "longitude" : -73.728,
+    "name" : "Execution Rocks",
+    "latitude" : 40.883
+  },
+  {
+    "stationId" : "44023",
+    "longitude" : -74.4,
+    "name" : "",
+    "latitude" : 37.5
+  },
+  {
+    "stationId" : "44024",
+    "longitude" : -65.909,
+    "name" : "Buoy N01 - Northeast Channel",
+    "latitude" : 42.325
+  },
+  {
+    "stationId" : "44025",
+    "longitude" : -73.175,
+    "name" : "LONG ISLAND - 30 NM South of Islip, NY",
+    "latitude" : 40.258
+  },
+  {
+    "stationId" : "44026",
+    "longitude" : -73.5,
+    "name" : "",
+    "latitude" : 36
+  },
+  {
+    "stationId" : "44027",
+    "longitude" : -67.301,
+    "name" : "Jonesport, ME - 20 NM SE of Jonesport, ME",
+    "latitude" : 44.284
+  },
+  {
+    "stationId" : "44028",
+    "longitude" : -71.08,
+    "name" : "Buzzard's Bay",
+    "latitude" : 41.4
+  },
+  {
+    "stationId" : "44029",
+    "longitude" : -70.566,
+    "name" : "Buoy A01 - Massachusetts Bay",
+    "latitude" : 42.523
+  },
+  {
+    "stationId" : "44030",
+    "longitude" : -70.426,
+    "name" : "Buoy B01 - Western Maine Shelf",
+    "latitude" : 43.179
+  },
+  {
+    "stationId" : "44031",
+    "longitude" : -70.06,
+    "name" : "Buoy C0201 - Casco Bay",
+    "latitude" : 43.57
+  },
+  {
+    "stationId" : "44032",
+    "longitude" : -69.355,
+    "name" : "Buoy E01 - Central Maine Shelf",
+    "latitude" : 43.715
+  },
+  {
+    "stationId" : "44033",
+    "longitude" : -68.996,
+    "name" : "Buoy F01 - Penobscot Bay",
+    "latitude" : 44.055
+  },
+  {
+    "stationId" : "44034",
+    "longitude" : -68.112,
+    "name" : "Buoy I01 - Eastern Maine Shelf",
+    "latitude" : 44.103
+  },
+  {
+    "stationId" : "44035",
+    "longitude" : -67.02,
+    "name" : "Buoy J0201 - Cobscook Bay",
+    "latitude" : 44.89
+  },
+  {
+    "stationId" : "44036",
+    "longitude" : -66.02,
+    "name" : "Buoy K0102 - Saint John",
+    "latitude" : 45.2
+  },
+  {
+    "stationId" : "44037",
+    "longitude" : -67.876,
+    "name" : "Buoy M01 - Jordan Basin",
+    "latitude" : 43.497
+  },
+  {
+    "stationId" : "44038",
+    "longitude" : -66.55,
+    "name" : "Buoy L0102 - Scotian Shelf",
+    "latitude" : 43.633
+  },
+  {
+    "stationId" : "44039",
+    "longitude" : -72.655,
+    "name" : "Central Long Island Sound",
+    "latitude" : 41.138
+  },
+  {
+    "stationId" : "44040",
+    "longitude" : -73.58,
+    "name" : "Western Long Island Sound",
+    "latitude" : 40.956
+  },
+  {
+    "stationId" : "44041",
+    "longitude" : -76.787,
+    "name" : "Jamestown, VA",
+    "latitude" : 37.211
+  },
+  {
+    "stationId" : "44042",
+    "longitude" : -76.335,
+    "name" : "Potomac, MD",
+    "latitude" : 38.033
+  },
+  {
+    "stationId" : "44043",
+    "longitude" : -76.391,
+    "name" : "Patapsco, MD",
+    "latitude" : 39.152
+  },
+  {
+    "stationId" : "44044",
+    "longitude" : -76.526,
+    "name" : "Patuxent River Buoy",
+    "latitude" : 38.389
+  },
+  {
+    "stationId" : "44052",
+    "longitude" : -76.399,
+    "name" : "Goodwin Islands",
+    "latitude" : 37.236
+  },
+  {
+    "stationId" : "44053",
+    "longitude" : -76.5,
+    "name" : "Gloucester Point",
+    "latitude" : 37.244
+  },
+  {
+    "stationId" : "44054",
+    "longitude" : -75.183,
+    "name" : "Lower Delaware Bay Buoy",
+    "latitude" : 38.883
+  },
+  {
+    "stationId" : "44055",
+    "longitude" : -75.256,
+    "name" : "Central Delaware Bay",
+    "latitude" : 39.122
+  },
+  {
+    "stationId" : "44056",
+    "longitude" : -75.714,
+    "name" : "Duck FRF, NC",
+    "latitude" : 36.2
+  },
+  {
+    "stationId" : "44057",
+    "longitude" : -76.074,
+    "name" : "Susquehanna, MD",
+    "latitude" : 39.54
+  },
+  {
+    "stationId" : "44058",
+    "longitude" : -76.257,
+    "name" : "Stingray Point, VA",
+    "latitude" : 37.567
+  },
+  {
+    "stationId" : "44059",
+    "longitude" : -76.298,
+    "name" : "Norfolk, VA",
+    "latitude" : 36.846
+  },
+  {
+    "stationId" : "44060",
+    "longitude" : -72.067,
+    "name" : "Eastern Long Island Sound",
+    "latitude" : 41.263
+  },
+  {
+    "stationId" : "44061",
+    "longitude" : -77.036,
+    "name" : "Upper Potomac, MD",
+    "latitude" : 38.788
+  },
+  {
+    "stationId" : "44062",
+    "longitude" : -76.415,
+    "name" : "Gooses Reef, MD",
+    "latitude" : 38.556
+  },
+  {
+    "stationId" : "44063",
+    "longitude" : -76.448,
+    "name" : "Annapolis, MD",
+    "latitude" : 38.963
+  },
+  {
+    "stationId" : "44064",
+    "longitude" : -76.087,
+    "name" : "First Landing, VA",
+    "latitude" : 36.998
+  },
+  {
+    "stationId" : "44065",
+    "longitude" : -73.701,
+    "name" : "New York Harbor Entrance - 15 NM SE of Breezy Point , NY",
+    "latitude" : 40.368
+  },
+  {
+    "stationId" : "44066",
+    "longitude" : -72.644,
+    "name" : "Texas Tower #4 - 75 NM East of Long Beach, NJ",
+    "latitude" : 39.618
+  },
+  {
+    "stationId" : "44067",
+    "longitude" : -76.996,
+    "name" : "Potomac River, Near HWY 301",
+    "latitude" : 38.368
+  },
+  {
+    "stationId" : "44068",
+    "longitude" : -77.191,
+    "name" : "VCU Rice Rivers Center",
+    "latitude" : 37.314
+  },
+  {
+    "stationId" : "44069",
+    "longitude" : -73.087,
+    "name" : "Great South Bay",
+    "latitude" : 40.699
+  },
+  {
+    "stationId" : "44070",
+    "longitude" : -71.004,
+    "name" : "Buzzards Bay MA. Offshore",
+    "latitude" : 41.392
+  },
+  {
+    "stationId" : "44071",
+    "longitude" : -75.691,
+    "name" : "Chesapeake Light Va.",
+    "latitude" : 36.906
+  },
+  {
+    "stationId" : "44072",
+    "longitude" : -76.266,
+    "name" : "York Spit, VA",
+    "latitude" : 37.201
+  },
+  {
+    "stationId" : "44073",
+    "longitude" : -70.54,
+    "name" : "CO2 Gulf of Maine Buoy",
+    "latitude" : 43.02
+  },
+  {
+    "stationId" : "44075",
+    "longitude" : -70.883,
+    "name" : "OOI Pioneer Inshore Surface Mooring",
+    "latitude" : 40.363
+  },
+  {
+    "stationId" : "44076",
+    "longitude" : -70.775,
+    "name" : "OOI Pioneer Central Surface Mooring",
+    "latitude" : 40.137
+  },
+  {
+    "stationId" : "44077",
+    "longitude" : -70.883,
+    "name" : "OOI Pioneer Offshore Surface Mooring",
+    "latitude" : 39.94
+  },
+  {
+    "stationId" : "44078",
+    "longitude" : -39.52,
+    "name" : "OOI Irminger Sea Surface Mooring",
+    "latitude" : 59.94
+  },
+  {
+    "stationId" : "44079",
+    "longitude" : -74.827,
+    "name" : "OOI Pioneer - Mid-Atlantic Bight Northern Surface Mooring",
+    "latitude" : 36.175
+  },
+  {
+    "stationId" : "44080",
+    "longitude" : -76.528,
+    "name" : "Baltimore",
+    "latitude" : 39.223
+  },
+  {
+    "stationId" : "44084",
+    "longitude" : -75.044,
+    "name" : "Bethany Beach, DE (263)",
+    "latitude" : 38.537
+  },
+  {
+    "stationId" : "44085",
+    "longitude" : -71.032,
+    "name" : "Buzzards Bay, MA (260)",
+    "latitude" : 41.387
+  },
+  {
+    "stationId" : "44086",
+    "longitude" : -75.421,
+    "name" : "Nags Head, NC (243)",
+    "latitude" : 36.001
+  },
+  {
+    "stationId" : "44087",
+    "longitude" : -76.13,
+    "name" : "Thimble Shoal, VA (240)",
+    "latitude" : 37.044
+  },
+  {
+    "stationId" : "44088",
+    "longitude" : -74.839,
+    "name" : "Virginia Beach Offshore, VA (171)",
+    "latitude" : 36.612
+  },
+  {
+    "stationId" : "44089",
+    "longitude" : -75.325,
+    "name" : "Wallops Island, VA (224)",
+    "latitude" : 37.756
+  },
+  {
+    "stationId" : "44090",
+    "longitude" : -70.329,
+    "name" : "Cape Cod Bay, MA (221)",
+    "latitude" : 41.84
+  },
+  {
+    "stationId" : "44091",
+    "longitude" : -73.769,
+    "name" : "Barnegat, NJ (209)",
+    "latitude" : 39.772
+  },
+  {
+    "stationId" : "44092",
+    "longitude" : -70.632,
+    "name" : "Isle of Shoals, NH (211)",
+    "latitude" : 42.942
+  },
+  {
+    "stationId" : "44093",
+    "longitude" : -75.492,
+    "name" : "Offshore Wind Energy Area, VA (210)",
+    "latitude" : 36.872
+  },
+  {
+    "stationId" : "44094",
+    "longitude" : -73.106,
+    "name" : "Fire Island Nearshore, NY (207)",
+    "latitude" : 40.585
+  },
+  {
+    "stationId" : "44095",
+    "longitude" : -75.33,
+    "name" : "Oregon Inlet, NC (192)",
+    "latitude" : 35.75
+  },
+  {
+    "stationId" : "44096",
+    "longitude" : -75.809,
+    "name" : "Cape Charles, VA (186)",
+    "latitude" : 37.023
+  },
+  {
+    "stationId" : "44097",
+    "longitude" : -71.124,
+    "name" : "Block Island, RI  (154)",
+    "latitude" : 40.967
+  },
+  {
+    "stationId" : "44098",
+    "longitude" : -70.169,
+    "name" : "Jeffrey's Ledge, NH (160)",
+    "latitude" : 42.8
+  },
+  {
+    "stationId" : "44099",
+    "longitude" : -75.722,
+    "name" : "Cape Henry, VA (147)",
+    "latitude" : 36.915
+  },
+  {
+    "stationId" : "44100",
+    "longitude" : -75.593,
+    "name" : "Duck FRF 26m, NC (430)",
+    "latitude" : 36.258
+  },
+  {
+    "stationId" : "44137",
+    "longitude" : -62.03,
+    "name" : "East Scotia Slope",
+    "latitude" : 42.26
+  },
+  {
+    "stationId" : "44138",
+    "longitude" : -53.63,
+    "name" : "SW Grand Banks",
+    "latitude" : 44.25
+  },
+  {
+    "stationId" : "44139",
+    "longitude" : -57.1,
+    "name" : "Banqureau Banks",
+    "latitude" : 44.24
+  },
+  {
+    "stationId" : "44140",
+    "longitude" : -51.47,
+    "name" : "Tail of the Bank",
+    "latitude" : 42.87
+  },
+  {
+    "stationId" : "44141",
+    "longitude" : -57.96,
+    "name" : "Laurentian Fan",
+    "latitude" : 42.99
+  },
+  {
+    "stationId" : "44142",
+    "longitude" : -64.033,
+    "name" : "La Have Bank",
+    "latitude" : 42.5
+  },
+  {
+    "stationId" : "44150",
+    "longitude" : -64.02,
+    "name" : "La Have Bank",
+    "latitude" : 42.5
+  },
+  {
+    "stationId" : "44172",
+    "longitude" : -63.408,
+    "name" : "Halifax Harbor, NS, Canada - 176",
+    "latitude" : 44.5
+  },
+  {
+    "stationId" : "44174",
+    "longitude" : -60.822,
+    "name" : "Anticosti",
+    "latitude" : 49.075
+  },
+  {
+    "stationId" : "44175",
+    "longitude" : -62,
+    "name" : "iles de la Madeleine",
+    "latitude" : 46.877
+  },
+  {
+    "stationId" : "44176",
+    "longitude" : -64.527,
+    "name" : "Point Escuminac",
+    "latitude" : 47.535
+  },
+  {
+    "stationId" : "44235",
+    "longitude" : -57.341,
+    "name" : "South Ramea Island, Newfoundland (170)",
+    "latitude" : 47.263
+  },
+  {
+    "stationId" : "44251",
+    "longitude" : -53.39,
+    "name" : "Nickerson Bank",
+    "latitude" : 46.44
+  },
+  {
+    "stationId" : "44255",
+    "longitude" : -57.34,
+    "name" : "NE Burgeo Bank",
+    "latitude" : 47.27
+  },
+  {
+    "stationId" : "44258",
+    "longitude" : -63.4,
+    "name" : "Halifax Harbour",
+    "latitude" : 44.5
+  },
+  {
+    "stationId" : "44401",
+    "longitude" : -50.03,
+    "name" : "NORTHEAST CASTLE ROCK SEAMOUNT - 620NM South of St John's Newfoundland, CN",
+    "latitude" : 37.592
+  },
+  {
+    "stationId" : "44402",
+    "longitude" : -70.717,
+    "name" : "SOUTHEAST BLOCK CANYON - 130 NM SE of Fire Island, NY",
+    "latitude" : 39.314
+  },
+  {
+    "stationId" : "44403",
+    "longitude" : -61.664,
+    "name" : "SABLE ISLAND BANK - 437 NM E of Boston, MA",
+    "latitude" : 41.928
+  },
+  {
+    "stationId" : "44488",
+    "longitude" : -60.95,
+    "name" : "East of Chedabucto Bay",
+    "latitude" : 45.44
+  },
+  {
+    "stationId" : "44489",
+    "longitude" : -61.14,
+    "name" : "West Chedabucto Bay",
+    "latitude" : 45.49
+  },
+  {
+    "stationId" : "44490",
+    "longitude" : -66.37,
+    "name" : "West Bay of Fundy",
+    "latitude" : 44.66
+  },
+  {
+    "stationId" : "44585",
+    "longitude" : -67.635,
+    "name" : "Drifting Buoy",
+    "latitude" : 43.354
+  },
+  {
+    "stationId" : "44d03",
+    "longitude" : -61.643,
+    "name" : "Adrift buoy from 44403",
+    "latitude" : 41.91
+  },
+  {
+    "stationId" : "44t14",
+    "longitude" : -74.847,
+    "name" : "VIRGINIA BEACH 64 NM East of Virginia Beach, VA",
+    "latitude" : 36.611
+  },
+  {
+    "stationId" : "45001",
+    "longitude" : -87.793,
+    "name" : "MID SUPERIOR- 60 NM North Northeast Hancock, MI",
+    "latitude" : 48.061
+  },
+  {
+    "stationId" : "45002",
+    "longitude" : -86.411,
+    "name" : "NORTH MICHIGAN- Halfway between North Manitou and Washington Islands.",
+    "latitude" : 45.344
+  },
+  {
+    "stationId" : "45003",
+    "longitude" : -82.84,
+    "name" : "NORTH HURON - 32NM Northeast of Alpena, MI",
+    "latitude" : 45.351
+  },
+  {
+    "stationId" : "45004",
+    "longitude" : -86.585,
+    "name" : "EAST SUPERIOR -70 NM NE Marquette, MI",
+    "latitude" : 47.585
+  },
+  {
+    "stationId" : "45005",
+    "longitude" : -82.398,
+    "name" : "WEST ERIE - 16 NM NW of Lorain, OH",
+    "latitude" : 41.677
+  },
+  {
+    "stationId" : "45006",
+    "longitude" : -89.793,
+    "name" : "WEST SUPERIOR - 30NM NE of Outer Island, WI",
+    "latitude" : 47.335
+  },
+  {
+    "stationId" : "45007",
+    "longitude" : -87.026,
+    "name" : "SOUTH MICHIGAN - 43NM East Southeast of Milwaukee, WI",
+    "latitude" : 42.674
+  },
+  {
+    "stationId" : "45008",
+    "longitude" : -82.416,
+    "name" : "SOUTH HURON - 43NM East of Oscoda, MI",
+    "latitude" : 44.283
+  },
+  {
+    "stationId" : "45009",
+    "longitude" : -82,
+    "name" : "",
+    "latitude" : 41.6
+  },
+  {
+    "stationId" : "45010",
+    "longitude" : -87.8,
+    "name" : "",
+    "latitude" : 43
+  },
+  {
+    "stationId" : "45011",
+    "longitude" : -86.27,
+    "name" : "Grand Haven Michigan",
+    "latitude" : 43.02
+  },
+  {
+    "stationId" : "45012",
+    "longitude" : -77.401,
+    "name" : "EAST Lake Ontario  - 20NM North Northeast of Rochester, NY",
+    "latitude" : 43.621
+  },
+  {
+    "stationId" : "45013",
+    "longitude" : -87.85,
+    "name" : "ATW20 - Atwater Park, WI",
+    "latitude" : 43.1
+  },
+  {
+    "stationId" : "45014",
+    "longitude" : -87.758,
+    "name" : "GB17 - South Green Bay, WI",
+    "latitude" : 44.794
+  },
+  {
+    "stationId" : "45015",
+    "longitude" : -87.527,
+    "name" : "Calumet Beach, Chicago, IL",
+    "latitude" : 41.714
+  },
+  {
+    "stationId" : "45016",
+    "longitude" : -87.573,
+    "name" : "Sixth-third St. Beach, Chicago, IL",
+    "latitude" : 41.783
+  },
+  {
+    "stationId" : "45017",
+    "longitude" : -87.622,
+    "name" : "Oak St. Beach, Chicago, IL",
+    "latitude" : 41.903
+  },
+  {
+    "stationId" : "45018",
+    "longitude" : -87.637,
+    "name" : "Montrose Ave. Beach, Chicago, IL",
+    "latitude" : 41.968
+  },
+  {
+    "stationId" : "45019",
+    "longitude" : -87.649,
+    "name" : "Foster Ave. Beach, Chicago, IL",
+    "latitude" : 41.979
+  },
+  {
+    "stationId" : "45020",
+    "longitude" : -85.604,
+    "name" : "Grand Traverse Bay South Buoy, MI",
+    "latitude" : 44.789
+  },
+  {
+    "stationId" : "45021",
+    "longitude" : -85.493,
+    "name" : "Traverse Bay #3, MI",
+    "latitude" : 45.048
+  },
+  {
+    "stationId" : "45022",
+    "longitude" : -85.088,
+    "name" : "Little Traverse Bay Buoy, MI",
+    "latitude" : 45.404
+  },
+  {
+    "stationId" : "45023",
+    "longitude" : -88.607,
+    "name" : "North Entry Buoy, North Keweenaw Peninsula, MI",
+    "latitude" : 47.27
+  },
+  {
+    "stationId" : "45024",
+    "longitude" : -86.56,
+    "name" : "Ludington Buoy, MI",
+    "latitude" : 43.977
+  },
+  {
+    "stationId" : "45025",
+    "longitude" : -88.398,
+    "name" : "South Entry Buoy, South Keweenaw Peninsula, MI",
+    "latitude" : 46.969
+  },
+  {
+    "stationId" : "45026",
+    "longitude" : -86.619,
+    "name" : "Cook Nuclear Plant Buoy, Stevensville, MI",
+    "latitude" : 41.982
+  },
+  {
+    "stationId" : "45027",
+    "longitude" : -91.93,
+    "name" : "McQuade Harbor Nearshore, MN",
+    "latitude" : 46.86
+  },
+  {
+    "stationId" : "45028",
+    "longitude" : -91.829,
+    "name" : "Western Lake Superior",
+    "latitude" : 46.814
+  },
+  {
+    "stationId" : "45029",
+    "longitude" : -86.272,
+    "name" : "Holland Buoy, MI",
+    "latitude" : 42.9
+  },
+  {
+    "stationId" : "45132",
+    "longitude" : -81.22,
+    "name" : "Port Stanley",
+    "latitude" : 42.46
+  },
+  {
+    "stationId" : "45135",
+    "longitude" : -76.87,
+    "name" : "Prince Edward Pt",
+    "latitude" : 43.78
+  },
+  {
+    "stationId" : "45136",
+    "longitude" : -86.95,
+    "name" : "Slate Island",
+    "latitude" : 48.54
+  },
+  {
+    "stationId" : "45137",
+    "longitude" : -81.02,
+    "name" : "Georgian Bay",
+    "latitude" : 45.54
+  },
+  {
+    "stationId" : "45138",
+    "longitude" : -65.71,
+    "name" : "Mont Louis",
+    "latitude" : 49.54
+  },
+  {
+    "stationId" : "45139",
+    "longitude" : -79.53,
+    "name" : "West Lake Ontario - Grimsby",
+    "latitude" : 43.25
+  },
+  {
+    "stationId" : "45140",
+    "longitude" : -96.73,
+    "name" : "Lake Winnipeg S. Basin",
+    "latitude" : 50.8
+  },
+  {
+    "stationId" : "45141",
+    "longitude" : -115.31,
+    "name" : "Great Slave Lake",
+    "latitude" : 61.18
+  },
+  {
+    "stationId" : "45142",
+    "longitude" : -79.29,
+    "name" : "Port Colborne",
+    "latitude" : 42.74
+  },
+  {
+    "stationId" : "45143",
+    "longitude" : -80.627,
+    "name" : "South Georgian Bay",
+    "latitude" : 44.94
+  },
+  {
+    "stationId" : "45144",
+    "longitude" : -98.29,
+    "name" : "Lake Winnipeg North",
+    "latitude" : 53.23
+  },
+  {
+    "stationId" : "45145",
+    "longitude" : -96.97,
+    "name" : "Lake Winnipeg Narrows",
+    "latitude" : 51.87
+  },
+  {
+    "stationId" : "45147",
+    "longitude" : -82.68,
+    "name" : "Lake St Clair",
+    "latitude" : 42.43
+  },
+  {
+    "stationId" : "45148",
+    "longitude" : -94.5,
+    "name" : "Lake of the Woods",
+    "latitude" : 49.65
+  },
+  {
+    "stationId" : "45149",
+    "longitude" : -82.08,
+    "name" : "Southern Lake Huron",
+    "latitude" : 43.54
+  },
+  {
+    "stationId" : "45150",
+    "longitude" : -114.13,
+    "name" : "Great Slave Lake, North Arm",
+    "latitude" : 61.98
+  },
+  {
+    "stationId" : "45151",
+    "longitude" : -79.37,
+    "name" : "Lake Simcoe",
+    "latitude" : 44.5
+  },
+  {
+    "stationId" : "45152",
+    "longitude" : -79.72,
+    "name" : "Lake Nipissing",
+    "latitude" : 46.23
+  },
+  {
+    "stationId" : "45154",
+    "longitude" : -82.64,
+    "name" : "North Channel East",
+    "latitude" : 46.05
+  },
+  {
+    "stationId" : "45155",
+    "longitude" : -79.39,
+    "name" : "Pan Am Games",
+    "latitude" : 43.59
+  },
+  {
+    "stationId" : "45158",
+    "longitude" : -94,
+    "name" : "Hudson Bay",
+    "latitude" : 59
+  },
+  {
+    "stationId" : "45159",
+    "longitude" : -78.98,
+    "name" : "NW Lake Ontario Ajax",
+    "latitude" : 43.77
+  },
+  {
+    "stationId" : "45160",
+    "longitude" : -79.633,
+    "name" : "16-Mile Creek",
+    "latitude" : 43.417
+  },
+  {
+    "stationId" : "45161",
+    "longitude" : -86.352,
+    "name" : "Muskegon Buoy, MI",
+    "latitude" : 43.185
+  },
+  {
+    "stationId" : "45162",
+    "longitude" : -83.269,
+    "name" : "Thunder Bay Buoy, Alpena, MI",
+    "latitude" : 44.988
+  },
+  {
+    "stationId" : "45163",
+    "longitude" : -83.599,
+    "name" : "Saginaw Bay Buoy, MI",
+    "latitude" : 43.983
+  },
+  {
+    "stationId" : "45164",
+    "longitude" : -81.698,
+    "name" : "Cleveland Buoy, OH",
+    "latitude" : 41.748
+  },
+  {
+    "stationId" : "45165",
+    "longitude" : -83.261,
+    "name" : "Toledo Water Intake Buoy, Oregon, OH",
+    "latitude" : 41.702
+  },
+  {
+    "stationId" : "45166",
+    "longitude" : -73.258,
+    "name" : "Lake Champlain - Inland Sea",
+    "latitude" : 44.785
+  },
+  {
+    "stationId" : "45167",
+    "longitude" : -80.135,
+    "name" : "Erie Nearshore Buoy, Erie, PA",
+    "latitude" : 42.185
+  },
+  {
+    "stationId" : "45168",
+    "longitude" : -86.331,
+    "name" : "South Haven Buoy, MI",
+    "latitude" : 42.397
+  },
+  {
+    "stationId" : "45169",
+    "longitude" : -81.821,
+    "name" : "Lakewood Buoy, OH",
+    "latitude" : 41.615
+  },
+  {
+    "stationId" : "45170",
+    "longitude" : -86.968,
+    "name" : "Michigan City Buoy, IN",
+    "latitude" : 41.755
+  },
+  {
+    "stationId" : "45171",
+    "longitude" : -87.411,
+    "name" : "Granite Island Buoy, Granite Island, MI",
+    "latitude" : 46.724
+  },
+  {
+    "stationId" : "45172",
+    "longitude" : -85.98,
+    "name" : "Grand Marais Buoy, Grand Marais, MI",
+    "latitude" : 46.74
+  },
+  {
+    "stationId" : "45173",
+    "longitude" : -86.572,
+    "name" : "Munising Buoy, Munising, MI",
+    "latitude" : 46.573
+  },
+  {
+    "stationId" : "45174",
+    "longitude" : -87.655,
+    "name" : "Wilmette Buoy, IL",
+    "latitude" : 42.135
+  },
+  {
+    "stationId" : "45175",
+    "longitude" : -84.772,
+    "name" : "Mackinac Straits West, Mackinaw City, MI",
+    "latitude" : 45.825
+  },
+  {
+    "stationId" : "45176",
+    "longitude" : -81.765,
+    "name" : "Cleveland Intake Crib Buoy, OH",
+    "latitude" : 41.55
+  },
+  {
+    "stationId" : "45177",
+    "longitude" : -87.613,
+    "name" : "Ohio St. Beach, Chicago, IL",
+    "latitude" : 41.894
+  },
+  {
+    "stationId" : "45178",
+    "longitude" : -73.394,
+    "name" : "1 NM SE of Valcour Island, NY",
+    "latitude" : 44.603
+  },
+  {
+    "stationId" : "45179",
+    "longitude" : -87.224,
+    "name" : "Stannard Rock Buoy",
+    "latitude" : 47.195
+  },
+  {
+    "stationId" : "45180",
+    "longitude" : -87.73,
+    "name" : "Isle of Royale East, MI (230)",
+    "latitude" : 48.034
+  },
+  {
+    "stationId" : "45183",
+    "longitude" : -85.831,
+    "name" : "Sleeping Bear Dunes",
+    "latitude" : 44.982
+  },
+  {
+    "stationId" : "45184",
+    "longitude" : -87.959,
+    "name" : "Green Bay East Buoy",
+    "latitude" : 44.55
+  },
+  {
+    "stationId" : "45185",
+    "longitude" : -87.987,
+    "name" : "Green Bay West Buoy",
+    "latitude" : 44.577
+  },
+  {
+    "stationId" : "45186",
+    "longitude" : -87.795,
+    "name" : "Waukegan Buoy, IL",
+    "latitude" : 42.368
+  },
+  {
+    "stationId" : "45187",
+    "longitude" : -87.779,
+    "name" : "Winthrop Harbor Buoy, IL",
+    "latitude" : 42.491
+  },
+  {
+    "stationId" : "45188",
+    "longitude" : -73.423,
+    "name" : "Champlain Bridge Buoy",
+    "latitude" : 44.094
+  },
+  {
+    "stationId" : "45194",
+    "longitude" : -84.792,
+    "name" : "McGulpin Point North, MI (253)",
+    "latitude" : 45.804
+  },
+  {
+    "stationId" : "45195",
+    "longitude" : -73.339,
+    "name" : "Schuyler Reef, NY (251)",
+    "latitude" : 44.488
+  },
+  {
+    "stationId" : "45196",
+    "longitude" : -81.88,
+    "name" : "Rocky River, OH",
+    "latitude" : 41.521
+  },
+  {
+    "stationId" : "45197",
+    "longitude" : -81.617,
+    "name" : "Euclid, OH",
+    "latitude" : 41.619
+  },
+  {
+    "stationId" : "45198",
+    "longitude" : -87.563,
+    "name" : "Chicago Buoy",
+    "latitude" : 41.892
+  },
+  {
+    "stationId" : "45199",
+    "longitude" : -87.647,
+    "name" : "Salmon Unlimited Wisconsin",
+    "latitude" : 42.702
+  },
+  {
+    "stationId" : "45200",
+    "longitude" : -83.37,
+    "name" : "Maumee Bay Buoy",
+    "latitude" : 41.724
+  },
+  {
+    "stationId" : "45201",
+    "longitude" : -82.781,
+    "name" : "Erie Islands Buoy",
+    "latitude" : 41.601
+  },
+  {
+    "stationId" : "45202",
+    "longitude" : -82.941,
+    "name" : "Port Clinton Buoy",
+    "latitude" : 41.532
+  },
+  {
+    "stationId" : "45203",
+    "longitude" : -82.512,
+    "name" : "Huron Buoy",
+    "latitude" : 41.393
+  },
+  {
+    "stationId" : "45204",
+    "longitude" : -82.115,
+    "name" : "Sheffield Buoy",
+    "latitude" : 41.508
+  },
+  {
+    "stationId" : "45205",
+    "longitude" : -81.748,
+    "name" : "Edgewater Beach Buoy",
+    "latitude" : 41.501
+  },
+  {
+    "stationId" : "45206",
+    "longitude" : -81.583,
+    "name" : "Euclid Beach Buoy",
+    "latitude" : 41.585
+  },
+  {
+    "stationId" : "45207",
+    "longitude" : -81.37,
+    "name" : "Fairport Harbor Buoy",
+    "latitude" : 41.725
+  },
+  {
+    "stationId" : "45208",
+    "longitude" : -80.813,
+    "name" : "Ashtabula Buoy",
+    "latitude" : 41.908
+  },
+  {
+    "stationId" : "45209",
+    "longitude" : -82.391,
+    "name" : "Lakeport Buoy, MI",
+    "latitude" : 43.129
+  },
+  {
+    "stationId" : "45210",
+    "longitude" : -87.05,
+    "name" : "Rawley Point East, WI (269)",
+    "latitude" : 44.055
+  },
+  {
+    "stationId" : "45211",
+    "longitude" : -86.568,
+    "name" : "Grand Island North, MI (268)",
+    "latitude" : 46.973
+  },
+  {
+    "stationId" : "45212",
+    "longitude" : -82.84,
+    "name" : "North Huron Spotter",
+    "latitude" : 45.351
+  },
+  {
+    "stationId" : "45213",
+    "longitude" : -86.585,
+    "name" : "East Superior Spotter",
+    "latitude" : 47.585
+  },
+  {
+    "stationId" : "45214",
+    "longitude" : -87.026,
+    "name" : "South Michigan Spotter",
+    "latitude" : 42.674
+  },
+  {
+    "stationId" : "45215",
+    "longitude" : -76.539,
+    "name" : "Oswego, NY (274)",
+    "latitude" : 43.501
+  },
+  {
+    "stationId" : "45216",
+    "longitude" : -89.354,
+    "name" : "Ontonagon, MI",
+    "latitude" : 46.907
+  },
+  {
+    "stationId" : "45218",
+    "longitude" : -87.624,
+    "name" : "Wisconsin Shipwreck Coast NMS \/ Sheboygan, WI",
+    "latitude" : 43.731
+  },
+  {
+    "stationId" : "45219",
+    "longitude" : -91.625,
+    "name" : "Two Harbors Nearshore Buoy",
+    "latitude" : 47.021
+  },
+  {
+    "stationId" : "45221",
+    "longitude" : -73.355,
+    "name" : "North Lake Champlain",
+    "latitude" : 44.756
+  },
+  {
+    "stationId" : "45t01",
+    "longitude" : -87.666,
+    "name" : "MID SUPERIOR- 60NM North Northeast Hancock, MI",
+    "latitude" : 48.008
+  },
+  {
+    "stationId" : "46001",
+    "longitude" : -148.027,
+    "name" : "WESTERN GULF OF ALASKA  - 175NM SE of Kodiak, AK",
+    "latitude" : 56.296
+  },
+  {
+    "stationId" : "46002",
+    "longitude" : -130.523,
+    "name" : "WEST OREGON - 275NM West of Coos Bay, OR",
+    "latitude" : 42.56
+  },
+  {
+    "stationId" : "46003",
+    "longitude" : -155.85,
+    "name" : "S ALEUTIANS",
+    "latitude" : 51.831
+  },
+  {
+    "stationId" : "46004",
+    "longitude" : -136.1,
+    "name" : "Middle Nomad",
+    "latitude" : 50.93
+  },
+  {
+    "stationId" : "46005",
+    "longitude" : -131.09,
+    "name" : "WEST WASHINGTON - 300NM West of Aberdeen, WA",
+    "latitude" : 46.143
+  },
+  {
+    "stationId" : "46006",
+    "longitude" : -137.436,
+    "name" : "SOUTHEAST PAPA - 600NM West of Eureka, CA",
+    "latitude" : 40.722
+  },
+  {
+    "stationId" : "46007",
+    "longitude" : -152.7,
+    "name" : "",
+    "latitude" : 59.2
+  },
+  {
+    "stationId" : "46008",
+    "longitude" : -151.7,
+    "name" : "",
+    "latitude" : 57.1
+  },
+  {
+    "stationId" : "46009",
+    "longitude" : -146.8,
+    "name" : "",
+    "latitude" : 60.2
+  },
+  {
+    "stationId" : "46010",
+    "longitude" : -124.2,
+    "name" : "",
+    "latitude" : 46.2
+  },
+  {
+    "stationId" : "46011",
+    "longitude" : -120.999,
+    "name" : "SANTA MARIA - 21NM NW of Point Arguello, CA",
+    "latitude" : 34.937
+  },
+  {
+    "stationId" : "46012",
+    "longitude" : -122.881,
+    "name" : "HALF MOON BAY - 24NM SSW of San Francisco, CA",
+    "latitude" : 37.356
+  },
+  {
+    "stationId" : "46013",
+    "longitude" : -123.317,
+    "name" : "BODEGA BAY - 48NM NW of San Francisco, CA",
+    "latitude" : 38.235
+  },
+  {
+    "stationId" : "46014",
+    "longitude" : -123.98,
+    "name" : "PT ARENA - 19NM North of Point Arena, CA",
+    "latitude" : 39.225
+  },
+  {
+    "stationId" : "46015",
+    "longitude" : -124.839,
+    "name" : "PORT ORFORD - 15 NM West of Port Orford, OR",
+    "latitude" : 42.754
+  },
+  {
+    "stationId" : "46022",
+    "longitude" : -124.54,
+    "name" : "EEL RIVER - 17NM WSW of Eureka, CA",
+    "latitude" : 40.716
+  },
+  {
+    "stationId" : "46023",
+    "longitude" : -120.967,
+    "name" : "PT ARGUELLO - 17NM WNW of Point Arguello, CA",
+    "latitude" : 34.714
+  },
+  {
+    "stationId" : "46024",
+    "longitude" : -119.2,
+    "name" : "",
+    "latitude" : 33
+  },
+  {
+    "stationId" : "46025",
+    "longitude" : -119.045,
+    "name" : "Santa Monica Basin - 33NM WSW of Santa Monica, CA",
+    "latitude" : 33.755
+  },
+  {
+    "stationId" : "46026",
+    "longitude" : -122.838,
+    "name" : "SAN FRANCISCO - 18NM West of San Francisco, CA",
+    "latitude" : 37.75
+  },
+  {
+    "stationId" : "46027",
+    "longitude" : -124.382,
+    "name" : "ST GEORGES - 8 NM NW of Crescent City, CA",
+    "latitude" : 41.84
+  },
+  {
+    "stationId" : "46028",
+    "longitude" : -121.903,
+    "name" : "CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA",
+    "latitude" : 35.77
+  },
+  {
+    "stationId" : "46029",
+    "longitude" : -124.508,
+    "name" : "COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth",
+    "latitude" : 46.148
+  },
+  {
+    "stationId" : "46030",
+    "longitude" : -124.525,
+    "name" : "BLUNTS REEF",
+    "latitude" : 40.423
+  },
+  {
+    "stationId" : "46035",
+    "longitude" : -177.468,
+    "name" : "CENTRAL BERING SEA - 310 NM North of Adak, AK",
+    "latitude" : 57.034
+  },
+  {
+    "stationId" : "46036",
+    "longitude" : -133.94,
+    "name" : "South Nomad",
+    "latitude" : 48.36
+  },
+  {
+    "stationId" : "46037",
+    "longitude" : -133.8,
+    "name" : "",
+    "latitude" : 48.3
+  },
+  {
+    "stationId" : "46040",
+    "longitude" : -124.3,
+    "name" : "",
+    "latitude" : 44.8
+  },
+  {
+    "stationId" : "46041",
+    "longitude" : -124.739,
+    "name" : "CAPE ELIZABETH - 45NM NW of Aberdeen, WA",
+    "latitude" : 47.352
+  },
+  {
+    "stationId" : "46042",
+    "longitude" : -122.396,
+    "name" : "MONTEREY - 27NM WNW of Monterey, CA",
+    "latitude" : 36.785
+  },
+  {
+    "stationId" : "46044",
+    "longitude" : -122.378,
+    "name" : "",
+    "latitude" : 36.7
+  },
+  {
+    "stationId" : "46045",
+    "longitude" : -118.45,
+    "name" : "REDONDO BEACH",
+    "latitude" : 33.84
+  },
+  {
+    "stationId" : "46047",
+    "longitude" : -119.535,
+    "name" : "TANNER BANK - 121 NM West of San Diego, CA",
+    "latitude" : 32.418
+  },
+  {
+    "stationId" : "46048",
+    "longitude" : -117.9,
+    "name" : "",
+    "latitude" : 32.9
+  },
+  {
+    "stationId" : "46050",
+    "longitude" : -124.535,
+    "name" : "STONEWALL BANK - 20NM West of Newport, OR",
+    "latitude" : 44.679
+  },
+  {
+    "stationId" : "46051",
+    "longitude" : -120.69,
+    "name" : "Harvest Experiment Platform",
+    "latitude" : 34.48
+  },
+  {
+    "stationId" : "46053",
+    "longitude" : -119.839,
+    "name" : "EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA",
+    "latitude" : 34.241
+  },
+  {
+    "stationId" : "46054",
+    "longitude" : -120.468,
+    "name" : "WEST SANTA BARBARA  38 NM West of Santa Barbara, CA",
+    "latitude" : 34.274
+  },
+  {
+    "stationId" : "46059",
+    "longitude" : -129.895,
+    "name" : "WEST CALIFORNIA - 357NM West of San Francisco, CA",
+    "latitude" : 38.067
+  },
+  {
+    "stationId" : "46060",
+    "longitude" : -146.795,
+    "name" : "WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK",
+    "latitude" : 60.571
+  },
+  {
+    "stationId" : "46061",
+    "longitude" : -146.837,
+    "name" : "Seal Rocks - Between Montague and Hinchinbrook Islands, AK",
+    "latitude" : 60.23
+  },
+  {
+    "stationId" : "46062",
+    "longitude" : -121.01,
+    "name" : "Pt. San Luis, CA - 18 NM South Southwest of Morro Bay, CA",
+    "latitude" : 35.101
+  },
+  {
+    "stationId" : "46063",
+    "longitude" : -120.699,
+    "name" : "Pt.Conception, CA - 50NM West of Santa Barbara, CA",
+    "latitude" : 34.273
+  },
+  {
+    "stationId" : "46066",
+    "longitude" : -154.992,
+    "name" : "SOUTH KODIAK - 310NM SSW of Kodiak, AK",
+    "latitude" : 52.776
+  },
+  {
+    "stationId" : "46069",
+    "longitude" : -120.213,
+    "name" : "SOUTH SANTA ROSA - 14 NM SW of Santa Rosa Island, CA",
+    "latitude" : 33.677
+  },
+  {
+    "stationId" : "46070",
+    "longitude" : 175.246,
+    "name" : "SOUTHWEST BERING SEA - 142NM NNE OF ATTU IS, AK",
+    "latitude" : 55.048
+  },
+  {
+    "stationId" : "46071",
+    "longitude" : 179.764,
+    "name" : "WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK",
+    "latitude" : 51.04
+  },
+  {
+    "stationId" : "46072",
+    "longitude" : -172.145,
+    "name" : "CENTRAL ALEUTIANS 230 NM SW Dutch Harbor",
+    "latitude" : 51.645
+  },
+  {
+    "stationId" : "46073",
+    "longitude" : -172.012,
+    "name" : "SOUTHEAST BERING SEA - 205 NM WNW of Dutch Harbor, AK",
+    "latitude" : 55.008
+  },
+  {
+    "stationId" : "46075",
+    "longitude" : -160.794,
+    "name" : "SHUMAGIN ISLANDS - 85NM South of Sand Point, AK",
+    "latitude" : 53.969
+  },
+  {
+    "stationId" : "46076",
+    "longitude" : -148.005,
+    "name" : "CAPE CLEARE - 17 NM South of Montague Is,  AK",
+    "latitude" : 59.508
+  },
+  {
+    "stationId" : "46077",
+    "longitude" : -154.211,
+    "name" : "SHELIKOF STRAIT, AK",
+    "latitude" : 57.869
+  },
+  {
+    "stationId" : "46078",
+    "longitude" : -152.599,
+    "name" : "ALBATROSS BANK - 104NM South of Kodiak Is., AK",
+    "latitude" : 55.561
+  },
+  {
+    "stationId" : "46079",
+    "longitude" : -152.23,
+    "name" : "Barren Island",
+    "latitude" : 59.05
+  },
+  {
+    "stationId" : "46080",
+    "longitude" : -150.129,
+    "name" : "PORTLOCK BANK - 76 NM ENE of Kodiak, AK",
+    "latitude" : 57.91
+  },
+  {
+    "stationId" : "46081",
+    "longitude" : -148.283,
+    "name" : "Western Prince William Sound",
+    "latitude" : 60.802
+  },
+  {
+    "stationId" : "46082",
+    "longitude" : -143.353,
+    "name" : "Cape Suckling - 35 NM SE of Kayak Is, AK",
+    "latitude" : 59.67
+  },
+  {
+    "stationId" : "46083",
+    "longitude" : -138.024,
+    "name" : "FAIRWEATHER GROUND - 105 NM West  of Juneau, AK",
+    "latitude" : 58.276
+  },
+  {
+    "stationId" : "46084",
+    "longitude" : -136.04,
+    "name" : "CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK",
+    "latitude" : 56.614
+  },
+  {
+    "stationId" : "46085",
+    "longitude" : -142.895,
+    "name" : "CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK",
+    "latitude" : 55.84
+  },
+  {
+    "stationId" : "46086",
+    "longitude" : -118.029,
+    "name" : "SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA",
+    "latitude" : 32.504
+  },
+  {
+    "stationId" : "46087",
+    "longitude" : -124.727,
+    "name" : "Neah Bay - 6 NM North of Cape Flattery, WA (Traffic Separation Lighted Buoy)",
+    "latitude" : 48.493
+  },
+  {
+    "stationId" : "46088",
+    "longitude" : -123.179,
+    "name" : "NEW DUNGENESS - 17 NM NE of Port Angeles, WA",
+    "latitude" : 48.332
+  },
+  {
+    "stationId" : "46089",
+    "longitude" : -125.815,
+    "name" : "TILLAMOOK, OR - 85 NM WNW of Tillamook, OR",
+    "latitude" : 45.928
+  },
+  {
+    "stationId" : "46090",
+    "longitude" : -120.718,
+    "name" : "SOCAL WEST NOOS WX BUOY",
+    "latitude" : 32.876
+  },
+  {
+    "stationId" : "46091",
+    "longitude" : -121.899,
+    "name" : "MBM0",
+    "latitude" : 36.835
+  },
+  {
+    "stationId" : "46092",
+    "longitude" : -122.029,
+    "name" : "MBM1",
+    "latitude" : 36.751
+  },
+  {
+    "stationId" : "46093",
+    "longitude" : -122.41,
+    "name" : "MBM2",
+    "latitude" : 36.69
+  },
+  {
+    "stationId" : "46094",
+    "longitude" : -124.3,
+    "name" : "Buoy NH-10 - West of Newport, OR",
+    "latitude" : 44.642
+  },
+  {
+    "stationId" : "46096",
+    "longitude" : -124.127,
+    "name" : "Columbia River Entrance - SATURN Station #02 Offshore",
+    "latitude" : 46.173
+  },
+  {
+    "stationId" : "46097",
+    "longitude" : -124.304,
+    "name" : "OOI Newport Shelf",
+    "latitude" : 44.639
+  },
+  {
+    "stationId" : "46098",
+    "longitude" : -124.947,
+    "name" : "OOI Waldport Offshore",
+    "latitude" : 44.378
+  },
+  {
+    "stationId" : "46099",
+    "longitude" : -124.567,
+    "name" : "OOI Westport Shelf",
+    "latitude" : 46.988
+  },
+  {
+    "stationId" : "46100",
+    "longitude" : -124.964,
+    "name" : "OOI Westport Offshore",
+    "latitude" : 46.851
+  },
+  {
+    "stationId" : "46105",
+    "longitude" : -152.233,
+    "name" : "South Cook Inlet - 10NM NW of East Amatuli Light, AK",
+    "latitude" : 59.049
+  },
+  {
+    "stationId" : "46106",
+    "longitude" : -152.09,
+    "name" : "Central Cook Inlet AK",
+    "latitude" : 59.76
+  },
+  {
+    "stationId" : "46107",
+    "longitude" : -147.992,
+    "name" : "Montague Strait",
+    "latitude" : 59.925
+  },
+  {
+    "stationId" : "46108",
+    "longitude" : -151.828,
+    "name" : "Lower Cook Inlet (204)",
+    "latitude" : 59.598
+  },
+  {
+    "stationId" : "46109",
+    "longitude" : -123.395,
+    "name" : "Port Angeles Buoy",
+    "latitude" : 48.123
+  },
+  {
+    "stationId" : "46110",
+    "longitude" : -123.032,
+    "name" : "Sequim Buoy",
+    "latitude" : 48.115
+  },
+  {
+    "stationId" : "46111",
+    "longitude" : -122.748,
+    "name" : "Fort Worden Buoy",
+    "latitude" : 48.131
+  },
+  {
+    "stationId" : "46112",
+    "longitude" : -122.73,
+    "name" : "Marrowstone Buoy",
+    "latitude" : 48.1
+  },
+  {
+    "stationId" : "46113",
+    "longitude" : -122.646,
+    "name" : "Poulsbo Buoy",
+    "latitude" : 47.73
+  },
+  {
+    "stationId" : "46114",
+    "longitude" : -122.343,
+    "name" : "West Monterey Bay, CA (185)",
+    "latitude" : 36.7
+  },
+  {
+    "stationId" : "46115",
+    "longitude" : -177.75,
+    "name" : "Bering Sea",
+    "latitude" : 57.069
+  },
+  {
+    "stationId" : "46116",
+    "longitude" : -124.016,
+    "name" : "SATURN Estuary Station #07, Baker Bay, WA",
+    "latitude" : 46.287
+  },
+  {
+    "stationId" : "46117",
+    "longitude" : -123.869,
+    "name" : "SATURN Estuary Station #09, Youngs Bay, OR",
+    "latitude" : 46.176
+  },
+  {
+    "stationId" : "46118",
+    "longitude" : -122.576,
+    "name" : "Se'lhaem Bellingham Bay",
+    "latitude" : 48.724
+  },
+  {
+    "stationId" : "46119",
+    "longitude" : -124.95,
+    "name" : "Cha'Ba La Push",
+    "latitude" : 47.967
+  },
+  {
+    "stationId" : "46120",
+    "longitude" : -122.397,
+    "name" : "Pt Wells, WA (U of Wash)",
+    "latitude" : 47.761
+  },
+  {
+    "stationId" : "46121",
+    "longitude" : -122.73,
+    "name" : "Carr Inlet, WA (U of Wash)",
+    "latitude" : 47.28
+  },
+  {
+    "stationId" : "46122",
+    "longitude" : -122.803,
+    "name" : "Dabob Bay, WA (U of Wash)",
+    "latitude" : 47.803
+  },
+  {
+    "stationId" : "46123",
+    "longitude" : -123.008,
+    "name" : "Twanoh - Hood Canal, WA (U of Wash)",
+    "latitude" : 47.375
+  },
+  {
+    "stationId" : "46124",
+    "longitude" : -123.113,
+    "name" : "Hoodsport - Hood Canal, WA (U of Wash)",
+    "latitude" : 47.422
+  },
+  {
+    "stationId" : "46125",
+    "longitude" : -122.627,
+    "name" : "Hansville - Hood Canal, WA",
+    "latitude" : 47.907
+  },
+  {
+    "stationId" : "46126",
+    "longitude" : -166.602,
+    "name" : "Wide Bay (Shell)",
+    "latitude" : 53.951
+  },
+  {
+    "stationId" : "46127",
+    "longitude" : -124.063,
+    "name" : "SATURN Offshore Station #10, Columbia River, South Jetty, OR",
+    "latitude" : 46.215
+  },
+  {
+    "stationId" : "46128",
+    "longitude" : -124.538,
+    "name" : "Buoy CB-06 - West of Coos Bay, OR",
+    "latitude" : 43.292
+  },
+  {
+    "stationId" : "46131",
+    "longitude" : -124.98,
+    "name" : "Sentry Shoal",
+    "latitude" : 49.91
+  },
+  {
+    "stationId" : "46132",
+    "longitude" : -127.89,
+    "name" : "South Brooks",
+    "latitude" : 49.78
+  },
+  {
+    "stationId" : "46134",
+    "longitude" : -123.5,
+    "name" : "Pat Bay",
+    "latitude" : 48.65
+  },
+  {
+    "stationId" : "46138",
+    "longitude" : -129.795,
+    "name" : "South Hecate Strait, Canada (174)",
+    "latitude" : 52.437
+  },
+  {
+    "stationId" : "46139",
+    "longitude" : -126.01,
+    "name" : "La Perouse Bank DWR, Canada  (195)",
+    "latitude" : 48.844
+  },
+  {
+    "stationId" : "46145",
+    "longitude" : -132.42,
+    "name" : "Central Dixon Entrance Buoy",
+    "latitude" : 54.37
+  },
+  {
+    "stationId" : "46146",
+    "longitude" : -123.73,
+    "name" : "Halibut Bank",
+    "latitude" : 49.34
+  },
+  {
+    "stationId" : "46147",
+    "longitude" : -131.22,
+    "name" : "South Moresby",
+    "latitude" : 51.83
+  },
+  {
+    "stationId" : "46181",
+    "longitude" : -128.83,
+    "name" : "Nanakwa Shoal",
+    "latitude" : 53.83
+  },
+  {
+    "stationId" : "46183",
+    "longitude" : -131.1,
+    "name" : "North Hecate Strait",
+    "latitude" : 53.62
+  },
+  {
+    "stationId" : "46184",
+    "longitude" : -138.85,
+    "name" : "North Nomad",
+    "latitude" : 53.92
+  },
+  {
+    "stationId" : "46185",
+    "longitude" : -129.79,
+    "name" : "South Hecate Strait",
+    "latitude" : 52.42
+  },
+  {
+    "stationId" : "46204",
+    "longitude" : -128.77,
+    "name" : "West Sea Otter",
+    "latitude" : 51.38
+  },
+  {
+    "stationId" : "46205",
+    "longitude" : -134.32,
+    "name" : "West Dixon Entrance",
+    "latitude" : 54.18
+  },
+  {
+    "stationId" : "46206",
+    "longitude" : -126,
+    "name" : "La Perouse Bank",
+    "latitude" : 48.84
+  },
+  {
+    "stationId" : "46207",
+    "longitude" : -129.92,
+    "name" : "East Dellwood",
+    "latitude" : 50.87
+  },
+  {
+    "stationId" : "46208",
+    "longitude" : -132.69,
+    "name" : "West Moresby",
+    "latitude" : 52.52
+  },
+  {
+    "stationId" : "46211",
+    "longitude" : -124.243,
+    "name" : "Grays Harbor, WA (036)",
+    "latitude" : 46.857
+  },
+  {
+    "stationId" : "46212",
+    "longitude" : -124.313,
+    "name" : "Humboldt Bay South Spit, CA (128)",
+    "latitude" : 40.753
+  },
+  {
+    "stationId" : "46213",
+    "longitude" : -124.748,
+    "name" : "Cape Mendocino, CA (094)",
+    "latitude" : 40.292
+  },
+  {
+    "stationId" : "46214",
+    "longitude" : -123.463,
+    "name" : "Point Reyes, CA (029)",
+    "latitude" : 37.937
+  },
+  {
+    "stationId" : "46215",
+    "longitude" : -120.859,
+    "name" : "Diablo Canyon, CA (076)",
+    "latitude" : 35.204
+  },
+  {
+    "stationId" : "46216",
+    "longitude" : -119.803,
+    "name" : "Goleta Point, CA (107)",
+    "latitude" : 34.333
+  },
+  {
+    "stationId" : "46217",
+    "longitude" : -119.435,
+    "name" : "Anacapa Passage, CA (111)",
+    "latitude" : 34.167
+  },
+  {
+    "stationId" : "46218",
+    "longitude" : -120.78,
+    "name" : "Harvest, CA (071)",
+    "latitude" : 34.452
+  },
+  {
+    "stationId" : "46219",
+    "longitude" : -119.891,
+    "name" : "San Nicolas Island, CA (067)",
+    "latitude" : 33.226
+  },
+  {
+    "stationId" : "46220",
+    "longitude" : -118.446,
+    "name" : "El Porto, CA (125)",
+    "latitude" : 33.897
+  },
+  {
+    "stationId" : "46221",
+    "longitude" : -118.641,
+    "name" : "Santa Monica Bay, CA (028)",
+    "latitude" : 33.86
+  },
+  {
+    "stationId" : "46222",
+    "longitude" : -118.317,
+    "name" : "San Pedro, CA (092)",
+    "latitude" : 33.618
+  },
+  {
+    "stationId" : "46223",
+    "longitude" : -117.767,
+    "name" : "Dana Point, CA (096)",
+    "latitude" : 33.458
+  },
+  {
+    "stationId" : "46224",
+    "longitude" : -117.472,
+    "name" : "Oceanside Offshore, CA (045)",
+    "latitude" : 33.178
+  },
+  {
+    "stationId" : "46225",
+    "longitude" : -117.391,
+    "name" : "Torrey Pines Outer, CA (100)",
+    "latitude" : 32.933
+  },
+  {
+    "stationId" : "46226",
+    "longitude" : -117.353,
+    "name" : "Point La Jolla, CA (095)",
+    "latitude" : 32.848
+  },
+  {
+    "stationId" : "46227",
+    "longitude" : -117.444,
+    "name" : "Point Loma, CA (091)",
+    "latitude" : 32.632
+  },
+  {
+    "stationId" : "46228",
+    "longitude" : -119.417,
+    "name" : "Pitas Point, CA (130)",
+    "latitude" : 34.317
+  },
+  {
+    "stationId" : "46229",
+    "longitude" : -124.549,
+    "name" : "UMPQUA OFFSHORE, OR (139)",
+    "latitude" : 43.772
+  },
+  {
+    "stationId" : "46230",
+    "longitude" : -118.012,
+    "name" : "Huntington Beach Nearshore, CA (172)",
+    "latitude" : 33.623
+  },
+  {
+    "stationId" : "46231",
+    "longitude" : -117.37,
+    "name" : "Mission Bay, CA (093)",
+    "latitude" : 32.747
+  },
+  {
+    "stationId" : "46232",
+    "longitude" : -117.425,
+    "name" : "Point Loma South, CA  (191)",
+    "latitude" : 32.517
+  },
+  {
+    "stationId" : "46233",
+    "longitude" : -117.32,
+    "name" : "SCCOOS San Diego Mooring",
+    "latitude" : 32.936
+  },
+  {
+    "stationId" : "46234",
+    "longitude" : -119.168,
+    "name" : "Port Hueneme Nearshore, CA (141)",
+    "latitude" : 34.1
+  },
+  {
+    "stationId" : "46235",
+    "longitude" : -117.169,
+    "name" : "Imperial Beach Nearshore, CA (155)",
+    "latitude" : 32.57
+  },
+  {
+    "stationId" : "46236",
+    "longitude" : -121.95,
+    "name" : "Monterey Canyon Outer, CA  (156)",
+    "latitude" : 36.759
+  },
+  {
+    "stationId" : "46237",
+    "longitude" : -122.634,
+    "name" : "San Francisco Bar, CA  (142)",
+    "latitude" : 37.788
+  },
+  {
+    "stationId" : "46238",
+    "longitude" : -119.55,
+    "name" : "Santa Cruz Basin, CA (167)",
+    "latitude" : 33.76
+  },
+  {
+    "stationId" : "46239",
+    "longitude" : -122.104,
+    "name" : "Point Sur, CA (157)",
+    "latitude" : 36.335
+  },
+  {
+    "stationId" : "46240",
+    "longitude" : -121.907,
+    "name" : "Cabrillo Point, Monterey Bay, CA  (158)",
+    "latitude" : 36.626
+  },
+  {
+    "stationId" : "46241",
+    "longitude" : -117.292,
+    "name" : "San Elijo Nearshore, CA (161)",
+    "latitude" : 33.003
+  },
+  {
+    "stationId" : "46242",
+    "longitude" : -117.439,
+    "name" : "Camp Pendleton Nearshore, CA  (043)",
+    "latitude" : 33.22
+  },
+  {
+    "stationId" : "46243",
+    "longitude" : -124.126,
+    "name" : "Clatsop Spit, OR (162)",
+    "latitude" : 46.214
+  },
+  {
+    "stationId" : "46244",
+    "longitude" : -124.358,
+    "name" : "Humboldt Bay, North Spit, CA (168)",
+    "latitude" : 40.896
+  },
+  {
+    "stationId" : "46245",
+    "longitude" : -119.308,
+    "name" : "Ventura Nearshore, CA - 169",
+    "latitude" : 34.251
+  },
+  {
+    "stationId" : "46246",
+    "longitude" : -145.246,
+    "name" : "Ocean Station PAPA  (166)",
+    "latitude" : 49.903
+  },
+  {
+    "stationId" : "46247",
+    "longitude" : -122.833,
+    "name" : "San Francisco Offshore, CA  (180)",
+    "latitude" : 37.753
+  },
+  {
+    "stationId" : "46248",
+    "longitude" : -124.64,
+    "name" : "Astoria Canyon, OR  (179)",
+    "latitude" : 46.133
+  },
+  {
+    "stationId" : "46249",
+    "longitude" : -119.708,
+    "name" : "Santa Cruz Island South, CA (182)",
+    "latitude" : 33.821
+  },
+  {
+    "stationId" : "46250",
+    "longitude" : -119.09,
+    "name" : "Point Mugu Offshore, CA - 184",
+    "latitude" : 34.034
+  },
+  {
+    "stationId" : "46251",
+    "longitude" : -119.565,
+    "name" : "Santa Cruz Basin, CA (203)",
+    "latitude" : 33.769
+  },
+  {
+    "stationId" : "46252",
+    "longitude" : -119.257,
+    "name" : "Anacapa Passage South, CA (212)",
+    "latitude" : 33.953
+  },
+  {
+    "stationId" : "46253",
+    "longitude" : -118.181,
+    "name" : "San Pedro South, CA (213)",
+    "latitude" : 33.576
+  },
+  {
+    "stationId" : "46254",
+    "longitude" : -117.267,
+    "name" : "SCRIPPS Nearshore, CA (201)",
+    "latitude" : 32.868
+  },
+  {
+    "stationId" : "46255",
+    "longitude" : -119.651,
+    "name" : "Begg Rock, CA  (138)",
+    "latitude" : 33.4
+  },
+  {
+    "stationId" : "46256",
+    "longitude" : -118.201,
+    "name" : "Long Beach Channel, CA (215)",
+    "latitude" : 33.7
+  },
+  {
+    "stationId" : "46257",
+    "longitude" : -120.766,
+    "name" : "Harvest Southeast, CA (216)",
+    "latitude" : 34.439
+  },
+  {
+    "stationId" : "46258",
+    "longitude" : -117.502,
+    "name" : "Mission Bay West, CA (220)",
+    "latitude" : 32.749
+  },
+  {
+    "stationId" : "46259",
+    "longitude" : -121.491,
+    "name" : "Santa Lucia Escarpment, CA (222)",
+    "latitude" : 34.774
+  },
+  {
+    "stationId" : "46260",
+    "longitude" : -124.29,
+    "name" : "Lakeside, OR (231)",
+    "latitude" : 43.586
+  },
+  {
+    "stationId" : "46261",
+    "longitude" : -124.225,
+    "name" : "Reedsport, OR (232)",
+    "latitude" : 43.76
+  },
+  {
+    "stationId" : "46262",
+    "longitude" : -119.004,
+    "name" : "Santa Barbara Island North, CA (234)",
+    "latitude" : 33.704
+  },
+  {
+    "stationId" : "46263",
+    "longitude" : -123.912,
+    "name" : "Fort Bragg South, CA (235)",
+    "latitude" : 39.37
+  },
+  {
+    "stationId" : "46264",
+    "longitude" : -151.695,
+    "name" : "Kodiak, AK (236)",
+    "latitude" : 57.479
+  },
+  {
+    "stationId" : "46265",
+    "longitude" : -165.479,
+    "name" : "Nome, AK (241)",
+    "latitude" : 64.474
+  },
+  {
+    "stationId" : "46266",
+    "longitude" : -117.279,
+    "name" : "Del Mar Nearshore, CA (153)",
+    "latitude" : 32.957
+  },
+  {
+    "stationId" : "46267",
+    "longitude" : -123.607,
+    "name" : "Angeles Point, WA (248)",
+    "latitude" : 48.173
+  },
+  {
+    "stationId" : "46268",
+    "longitude" : -118.578,
+    "name" : "Topanga Nearshore, CA (103)",
+    "latitude" : 34.022
+  },
+  {
+    "stationId" : "46269",
+    "longitude" : -122.034,
+    "name" : "Point Santa Cruz, CA (254)",
+    "latitude" : 36.934
+  },
+  {
+    "stationId" : "46270",
+    "longitude" : 175.284,
+    "name" : "S.W. Bering Sea",
+    "latitude" : 55.003
+  },
+  {
+    "stationId" : "46273",
+    "longitude" : -117.274,
+    "name" : "Torrey Pines Inner, CA (101)",
+    "latitude" : 32.93
+  },
+  {
+    "stationId" : "46274",
+    "longitude" : -117.314,
+    "name" : "Leucadia Nearshore, CA (262)",
+    "latitude" : 33.062
+  },
+  {
+    "stationId" : "46275",
+    "longitude" : -117.501,
+    "name" : "Red Beach Nearshore, CA (264)",
+    "latitude" : 33.291
+  },
+  {
+    "stationId" : "46276",
+    "longitude" : -121.825,
+    "name" : "Pajaro Beach, CA (266)",
+    "latitude" : 36.845
+  },
+  {
+    "stationId" : "46277",
+    "longitude" : -117.659,
+    "name" : "Green Beach Offshore, CA (271)",
+    "latitude" : 33.336
+  },
+  {
+    "stationId" : "46278",
+    "longitude" : -123.991,
+    "name" : "Tillamook Bay South Jetty, OR (270)",
+    "latitude" : 45.561
+  },
+  {
+    "stationId" : "46279",
+    "longitude" : -121.82,
+    "name" : "Pajaro Beach South, CA (267)",
+    "latitude" : 36.838
+  },
+  {
+    "stationId" : "46280",
+    "longitude" : -124.234,
+    "name" : "Newport PWS North (277)",
+    "latitude" : 44.575
+  },
+  {
+    "stationId" : "46281",
+    "longitude" : -124.233,
+    "name" : "Newport PWS South, OR (278)",
+    "latitude" : 44.559
+  },
+  {
+    "stationId" : "46282",
+    "longitude" : -121.921,
+    "name" : "Aptos Creek Nearshore, CA 275",
+    "latitude" : 36.951
+  },
+  {
+    "stationId" : "46283",
+    "longitude" : -124.237,
+    "name" : "Yaquina Channel SW, OR (280)",
+    "latitude" : 44.567
+  },
+  {
+    "stationId" : "46284",
+    "longitude" : -121.934,
+    "name" : "Soquel Cove South, CA (281)",
+    "latitude" : 36.93
+  },
+  {
+    "stationId" : "46285",
+    "longitude" : -117.68,
+    "name" : "Capistrano Beach Nearshore, CA (284)",
+    "latitude" : 33.445
+  },
+  {
+    "stationId" : "46290",
+    "longitude" : -120.63,
+    "name" : "NOOSS Optimization Buoy",
+    "latitude" : 32.659
+  },
+  {
+    "stationId" : "46303",
+    "longitude" : -123.43,
+    "name" : "Southern Georgia Strait",
+    "latitude" : 49.02
+  },
+  {
+    "stationId" : "46304",
+    "longitude" : -123.36,
+    "name" : "Entrance To English Bay",
+    "latitude" : 49.3
+  },
+  {
+    "stationId" : "46401",
+    "longitude" : -170.79,
+    "name" : "SOUTHEAST ADAK - 377NM SE of Adak, AK",
+    "latitude" : 46.638
+  },
+  {
+    "stationId" : "46402",
+    "longitude" : -164.147,
+    "name" : "South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK",
+    "latitude" : 50.913
+  },
+  {
+    "stationId" : "46403",
+    "longitude" : -156.813,
+    "name" : "SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK",
+    "latitude" : 52.654
+  },
+  {
+    "stationId" : "46404",
+    "longitude" : -128.745,
+    "name" : "WEST ASTORIA - 230 NM West of Astoria, OR",
+    "latitude" : 45.852
+  },
+  {
+    "stationId" : "46405",
+    "longitude" : -130.909,
+    "name" : "325 NM West-Southwest of Newport, OR",
+    "latitude" : 42.903
+  },
+  {
+    "stationId" : "46406",
+    "longitude" : -125.022,
+    "name" : "2,900 NM Southeast of Hawaii",
+    "latitude" : -8.491
+  },
+  {
+    "stationId" : "46407",
+    "longitude" : -128.895,
+    "name" : "NEWPORT - 210NM West of Coos Bay, OR",
+    "latitude" : 42.704
+  },
+  {
+    "stationId" : "46408",
+    "longitude" : -169.825,
+    "name" : "NIKOLSKI - 212 NM South of Umnak Is, AK",
+    "latitude" : 49.677
+  },
+  {
+    "stationId" : "46409",
+    "longitude" : -148.575,
+    "name" : "SOUTHEAST KODIAK - 210 NM SE of Kodiak, AK",
+    "latitude" : 55.338
+  },
+  {
+    "stationId" : "46410",
+    "longitude" : -143.769,
+    "name" : "SOUTH CORDOVA - 188 NM SSE of Cordova, AK",
+    "latitude" : 57.649
+  },
+  {
+    "stationId" : "46411",
+    "longitude" : -127.04,
+    "name" : "Mendocino - 150 NM West of  Mendocino Bay, CA",
+    "latitude" : 39.337
+  },
+  {
+    "stationId" : "46412",
+    "longitude" : -120.582,
+    "name" : "San Diego - 175 NM West of San Diego, CA",
+    "latitude" : 32.4
+  },
+  {
+    "stationId" : "46413",
+    "longitude" : -173.897,
+    "name" : "SOUTH-SOUTHEAST ADAK - 243 NM SSE of Adak Island, AK",
+    "latitude" : 48.045
+  },
+  {
+    "stationId" : "46414",
+    "longitude" : -152.456,
+    "name" : "SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK",
+    "latitude" : 53.756
+  },
+  {
+    "stationId" : "46415",
+    "longitude" : -139.884,
+    "name" : "SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK",
+    "latitude" : 53.035
+  },
+  {
+    "stationId" : "46416",
+    "longitude" : -134.427,
+    "name" : "WEST VANCOUVER - 442NM West of Vancouver, BC, Canada",
+    "latitude" : 49.939
+  },
+  {
+    "stationId" : "46419",
+    "longitude" : -129.623,
+    "name" : "NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA",
+    "latitude" : 48.815
+  },
+  {
+    "stationId" : "46451",
+    "longitude" : -125.699,
+    "name" : "PMEL 4G Test 1 - 83NM W of Newport, OR",
+    "latitude" : 44.815
+  },
+  {
+    "stationId" : "46452",
+    "longitude" : -125.759,
+    "name" : "PMEL 4G Test 2 - 74NM West of Newport, OR",
+    "latitude" : 44.807
+  },
+  {
+    "stationId" : "46490",
+    "longitude" : -120.557,
+    "name" : "NOOSS Optimization Buoy",
+    "latitude" : 32.455
+  },
+  {
+    "stationId" : "46518",
+    "longitude" : -170,
+    "name" : "Drifting Buoy",
+    "latitude" : 44.5
+  },
+  {
+    "stationId" : "46531",
+    "longitude" : -165,
+    "name" : "Drifting Buoy",
+    "latitude" : 41
+  },
+  {
+    "stationId" : "46534",
+    "longitude" : -165,
+    "name" : "Drifting Buoy",
+    "latitude" : 48
+  },
+  {
+    "stationId" : "46538",
+    "longitude" : -127.9,
+    "name" : "Drifting Buoy",
+    "latitude" : 24.14
+  },
+  {
+    "stationId" : "46551",
+    "longitude" : -161.81,
+    "name" : "Drifting Buoy",
+    "latitude" : 53.033
+  },
+  {
+    "stationId" : "46553",
+    "longitude" : -165.44,
+    "name" : "Drifting Buoy",
+    "latitude" : 54.54
+  },
+  {
+    "stationId" : "46565",
+    "longitude" : -170,
+    "name" : "Drifting Buoy",
+    "latitude" : 44.5
+  },
+  {
+    "stationId" : "46779",
+    "longitude" : -149,
+    "name" : "Drifting Buoy",
+    "latitude" : 57
+  },
+  {
+    "stationId" : "46780",
+    "longitude" : -167.14,
+    "name" : "Drifting Buoy",
+    "latitude" : 56.04
+  },
+  {
+    "stationId" : "46781",
+    "longitude" : -177.948,
+    "name" : "Drifting Buoy",
+    "latitude" : 54.634
+  },
+  {
+    "stationId" : "46782",
+    "longitude" : -167.14,
+    "name" : "Drifting Buoy",
+    "latitude" : 56.04
+  },
+  {
+    "stationId" : "46785",
+    "longitude" : -173,
+    "name" : "Drifting Buoy",
+    "latitude" : 55
+  },
+  {
+    "stationId" : "46b35",
+    "longitude" : -177.75,
+    "name" : "CENTRAL BERING SEA - 310 NM North of Adak, AK",
+    "latitude" : 57.069
+  },
+  {
+    "stationId" : "46d02",
+    "longitude" : -163.943,
+    "name" : "Adrift buoy from 46402",
+    "latitude" : 50.983
+  },
+  {
+    "stationId" : "46d04",
+    "longitude" : -128.752,
+    "name" : "Adrift Buoy from 46404",
+    "latitude" : 42.87
+  },
+  {
+    "stationId" : "46d16",
+    "longitude" : -134.395,
+    "name" : "Adrift buoy from 46416",
+    "latitude" : 49.901
+  },
+  {
+    "stationId" : "46flo",
+    "longitude" : -122.562,
+    "name" : "Monterey Bay (FLOSSIE)",
+    "latitude" : 36.668
+  },
+  {
+    "stationId" : "46t29",
+    "longitude" : -124.574,
+    "name" : "COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth",
+    "latitude" : 46.141
+  },
+  {
+    "stationId" : "46x61",
+    "longitude" : -146.833,
+    "name" : "Adrift buoy from 46061",
+    "latitude" : 60.238
+  },
+  {
+    "stationId" : "48011",
+    "longitude" : -164.185,
+    "name" : "Red Dog Mine",
+    "latitude" : 67.582
+  },
+  {
+    "stationId" : "48012",
+    "longitude" : -166.071,
+    "name" : "Point Lay (UAF)",
+    "latitude" : 70.025
+  },
+  {
+    "stationId" : "48021",
+    "longitude" : -133,
+    "name" : "Tuktoyaktuk",
+    "latitude" : 70.35
+  },
+  {
+    "stationId" : "48114",
+    "longitude" : -169.454,
+    "name" : "30 NM West of King Island",
+    "latitude" : 65.011
+  },
+  {
+    "stationId" : "48211",
+    "longitude" : -146.04,
+    "name" : "Camden Bay (Shell Arctic)",
+    "latitude" : 70.37
+  },
+  {
+    "stationId" : "48212",
+    "longitude" : -150.279,
+    "name" : "Harrison Bay (Shell Arctic)",
+    "latitude" : 70.874
+  },
+  {
+    "stationId" : "48213",
+    "longitude" : -164.133,
+    "name" : "Burger",
+    "latitude" : 71.502
+  },
+  {
+    "stationId" : "48214",
+    "longitude" : -165.248,
+    "name" : "Klondike (MOB1)",
+    "latitude" : 70.872
+  },
+  {
+    "stationId" : "48215",
+    "longitude" : -164.133,
+    "name" : "Hanna Shoal (MOB3)",
+    "latitude" : 71.502
+  },
+  {
+    "stationId" : "48216",
+    "longitude" : -167.952,
+    "name" : "Crackerjack (Shell Arctic)",
+    "latitude" : 71.758
+  },
+  {
+    "stationId" : "48400",
+    "longitude" : -144.873,
+    "name" : "Ocean Climate Station Papa",
+    "latitude" : 50.055
+  },
+  {
+    "stationId" : "48677",
+    "longitude" : -177.61,
+    "name" : "",
+    "latitude" : 72.568
+  },
+  {
+    "stationId" : "48678",
+    "longitude" : -172.987,
+    "name" : "",
+    "latitude" : 74.076
+  },
+  {
+    "stationId" : "48679",
+    "longitude" : -159.89,
+    "name" : "",
+    "latitude" : 75.778
+  },
+  {
+    "stationId" : "48680",
+    "longitude" : -157.236,
+    "name" : "",
+    "latitude" : 74.776
+  },
+  {
+    "stationId" : "51000",
+    "longitude" : -153.752,
+    "name" : "NORTHERN HAWAII ONE - 245NM NE of Honolulu HI",
+    "latitude" : 23.534
+  },
+  {
+    "stationId" : "51001",
+    "longitude" : -162.03,
+    "name" : "NORTHWESTERN HAWAII ONE - 188 NM NW of Kauai Island, HI",
+    "latitude" : 24.475
+  },
+  {
+    "stationId" : "51002",
+    "longitude" : -157.755,
+    "name" : "SOUTHWEST HAWAII - 215NM SSW of Hilo, HI",
+    "latitude" : 17.07
+  },
+  {
+    "stationId" : "51003",
+    "longitude" : -160.645,
+    "name" : "WESTERN  HAWAII - 205 NM SW of Honolulu, HI",
+    "latitude" : 19.143
+  },
+  {
+    "stationId" : "51004",
+    "longitude" : -152.186,
+    "name" : "SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI",
+    "latitude" : 17.496
+  },
+  {
+    "stationId" : "51005",
+    "longitude" : -156.1,
+    "name" : "",
+    "latitude" : 20.4
+  },
+  {
+    "stationId" : "51026",
+    "longitude" : -156.93,
+    "name" : "Northern Molokai",
+    "latitude" : 21.35
+  },
+  {
+    "stationId" : "51027",
+    "longitude" : -157.1,
+    "name" : "",
+    "latitude" : 20.4
+  },
+  {
+    "stationId" : "51028",
+    "longitude" : -153.913,
+    "name" : "Christmas Island",
+    "latitude" : 0
+  },
+  {
+    "stationId" : "51045",
+    "longitude" : -155.082,
+    "name" : "Hilo Bay, HI",
+    "latitude" : 19.734
+  },
+  {
+    "stationId" : "51046",
+    "longitude" : -155.828,
+    "name" : "Kawaihai, HI",
+    "latitude" : 20.024
+  },
+  {
+    "stationId" : "51100",
+    "longitude" : -153.9,
+    "name" : "NORTHERN HAWAII TWO - 252NM NE of Honolulu, HI",
+    "latitude" : 23.558
+  },
+  {
+    "stationId" : "51101",
+    "longitude" : -162.081,
+    "name" : "NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI",
+    "latitude" : 24.359
+  },
+  {
+    "stationId" : "511x1",
+    "longitude" : -162.279,
+    "name" : "NORTHWESTERN HAWAII TWO - 190NM NW of Kauai Is, HI",
+    "latitude" : 23.445
+  },
+  {
+    "stationId" : "51200",
+    "longitude" : -158.303,
+    "name" : "Barbers Point, HI  (164)",
+    "latitude" : 21.096
+  },
+  {
+    "stationId" : "51201",
+    "longitude" : -158.118,
+    "name" : "Waimea Bay, HI (106)",
+    "latitude" : 21.671
+  },
+  {
+    "stationId" : "51202",
+    "longitude" : -157.681,
+    "name" : "Mokapu Point, HI (098)",
+    "latitude" : 21.414
+  },
+  {
+    "stationId" : "51203",
+    "longitude" : -157.01,
+    "name" : "Kaumalapau, HI (146)",
+    "latitude" : 20.788
+  },
+  {
+    "stationId" : "51204",
+    "longitude" : -158.124,
+    "name" : "Barbers Point, HI #2 (165)",
+    "latitude" : 21.281
+  },
+  {
+    "stationId" : "51205",
+    "longitude" : -156.421,
+    "name" : "Pauwela, Maui, HI (187)",
+    "latitude" : 21.018
+  },
+  {
+    "stationId" : "51206",
+    "longitude" : -154.97,
+    "name" : "Hilo, Hawaii, HI (188)",
+    "latitude" : 19.779
+  },
+  {
+    "stationId" : "51207",
+    "longitude" : -157.752,
+    "name" : "Kaneohe Bay, HI (198)",
+    "latitude" : 21.477
+  },
+  {
+    "stationId" : "51208",
+    "longitude" : -159.574,
+    "name" : "Hanalei, Kauai, HI (202)",
+    "latitude" : 22.285
+  },
+  {
+    "stationId" : "51209",
+    "longitude" : -170.501,
+    "name" : "Aunuu, American Samoa (189)",
+    "latitude" : -14.273
+  },
+  {
+    "stationId" : "51210",
+    "longitude" : -157.757,
+    "name" : "Kaneohe Bay, WETS, HI (225)",
+    "latitude" : 21.477
+  },
+  {
+    "stationId" : "51211",
+    "longitude" : -157.959,
+    "name" : "Pearl Harbor Entrance, HI (233)",
+    "latitude" : 21.297
+  },
+  {
+    "stationId" : "51212",
+    "longitude" : -158.149,
+    "name" : "Barbers Point, Kalaeloa, HI (238)",
+    "latitude" : 21.323
+  },
+  {
+    "stationId" : "51213",
+    "longitude" : -157.002,
+    "name" : "Kaumalapau Southwest, Lanai, HI (239)",
+    "latitude" : 20.75
+  },
+  {
+    "stationId" : "51214",
+    "longitude" : -170.875,
+    "name" : "King-Poloa, American Samoa (273)",
+    "latitude" : -14.296
+  },
+  {
+    "stationId" : "51406",
+    "longitude" : -125.027,
+    "name" : "CENTRAL SOUTH PACIFIC  - 1040NM NNE of Pitcarin Is",
+    "latitude" : -8.48
+  },
+  {
+    "stationId" : "51407",
+    "longitude" : -156.601,
+    "name" : "HAWAII - 34NM West of Kailua-Kona, HI",
+    "latitude" : 19.53
+  },
+  {
+    "stationId" : "51425",
+    "longitude" : -176.258,
+    "name" : "NORTHWEST APIA - 370 NM NW of Apia, Samoa",
+    "latitude" : -9.511
+  },
+  {
+    "stationId" : "51426",
+    "longitude" : -168.385,
+    "name" : "SOUTHEAST TONGA - 400NM SE of Tonga",
+    "latitude" : -23.11
+  },
+  {
+    "stationId" : "51542",
+    "longitude" : -179.903,
+    "name" : "TAO Buoy Adrift",
+    "latitude" : 0.018
+  },
+  {
+    "stationId" : "51d07",
+    "longitude" : -156.562,
+    "name" : "Adrift buoy from 51407",
+    "latitude" : 19.614
+  },
+  {
+    "stationId" : "51d26",
+    "longitude" : -168.133,
+    "name" : "SOUTHEAST TONGA - 400NM SE of Tonga",
+    "latitude" : -22.993
+  },
+  {
+    "stationId" : "51wh0",
+    "longitude" : -157,
+    "name" : "WHOTS - Woods Hole Ocean Time-series",
+    "latitude" : 22
+  },
+  {
+    "stationId" : "52009",
+    "longitude" : -144.668,
+    "name" : "",
+    "latitude" : 13.729
+  },
+  {
+    "stationId" : "52200",
+    "longitude" : 144.788,
+    "name" : "Ipan, Guam (121)",
+    "latitude" : 13.354
+  },
+  {
+    "stationId" : "52201",
+    "longitude" : 171.384,
+    "name" : "Kalo, Majuro, Marshall Islands (163)",
+    "latitude" : 7.078
+  },
+  {
+    "stationId" : "52202",
+    "longitude" : 144.816,
+    "name" : "Ritidian Point, Guam (196)",
+    "latitude" : 13.683
+  },
+  {
+    "stationId" : "52211",
+    "longitude" : 145.662,
+    "name" : "Tanapag, Saipan, NMI (197)",
+    "latitude" : 15.268
+  },
+  {
+    "stationId" : "52212",
+    "longitude" : 134.671,
+    "name" : "Ngaraard, Babeldaob, Palau (219)",
+    "latitude" : 7.63
+  },
+  {
+    "stationId" : "52213",
+    "longitude" : 158.244,
+    "name" : "North Point, Pohnpei, Micronesia (178)",
+    "latitude" : 7.081
+  },
+  {
+    "stationId" : "52214",
+    "longitude" : 138.178,
+    "name" : "Rumung, Yap, Micronesia (272)",
+    "latitude" : 9.677
+  },
+  {
+    "stationId" : "52215",
+    "longitude" : 163.001,
+    "name" : "UTWE, KOSRAE, MICRONESIA (276)",
+    "latitude" : 5.241
+  },
+  {
+    "stationId" : "52401",
+    "longitude" : 155.739,
+    "name" : "NORTHEAST SAIPAN - 610 NM ENE of Saipan",
+    "latitude" : 19.285
+  },
+  {
+    "stationId" : "52402",
+    "longitude" : 153.876,
+    "name" : "SOUTHEAST SAIPAN - 540NM ESE of Saipan",
+    "latitude" : 11.928
+  },
+  {
+    "stationId" : "52403",
+    "longitude" : 145.628,
+    "name" : "NORTH MANUS - 345NM North of Manus Is , New Guinea",
+    "latitude" : 4.018
+  },
+  {
+    "stationId" : "52404",
+    "longitude" : 132.25,
+    "name" : "NORTH PHILIPPINE SEA - 750 NM NE of Manila, Philippines",
+    "latitude" : 20.685
+  },
+  {
+    "stationId" : "52405",
+    "longitude" : 132.232,
+    "name" : "SOUTH PHILIPPINE SEA -725 NM West of Agana, Guam",
+    "latitude" : 12.992
+  },
+  {
+    "stationId" : "52406",
+    "longitude" : 164.99,
+    "name" : "NORTHEAST SOLOMON - 370NM NE of Guadalcanal",
+    "latitude" : -5.374
+  },
+  {
+    "stationId" : "52834",
+    "longitude" : 154.953,
+    "name" : "",
+    "latitude" : 14
+  },
+  {
+    "stationId" : "52837",
+    "longitude" : 137,
+    "name" : "",
+    "latitude" : 9.777
+  },
+  {
+    "stationId" : "52838",
+    "longitude" : 140,
+    "name" : "",
+    "latitude" : 7.774
+  },
+  {
+    "stationId" : "52839",
+    "longitude" : 143,
+    "name" : "",
+    "latitude" : 5.758
+  },
+  {
+    "stationId" : "52840",
+    "longitude" : 151,
+    "name" : "",
+    "latitude" : 8.731
+  },
+  {
+    "stationId" : "52841",
+    "longitude" : 149,
+    "name" : "",
+    "latitude" : 5.943
+  },
+  {
+    "stationId" : "52842",
+    "longitude" : 150,
+    "name" : "",
+    "latitude" : 6.759
+  },
+  {
+    "stationId" : "52843",
+    "longitude" : 134,
+    "name" : "",
+    "latitude" : 11.761
+  },
+  {
+    "stationId" : "52849",
+    "longitude" : 155.256,
+    "name" : "",
+    "latitude" : 16
+  },
+  {
+    "stationId" : "52858",
+    "longitude" : 154.953,
+    "name" : "",
+    "latitude" : 14
+  },
+  {
+    "stationId" : "52862",
+    "longitude" : 155.256,
+    "name" : "",
+    "latitude" : 16
+  },
+  {
+    "stationId" : "52901",
+    "longitude" : 155.104,
+    "name" : "",
+    "latitude" : 15
+  },
+  {
+    "stationId" : "52d06",
+    "longitude" : 164.99,
+    "name" : "NORTHEAST SOLOMON",
+    "latitude" : -5.373
+  },
+  {
+    "stationId" : "53005",
+    "longitude" : 81,
+    "name" : "",
+    "latitude" : -8
+  },
+  {
+    "stationId" : "53006",
+    "longitude" : 81,
+    "name" : "",
+    "latitude" : -12
+  },
+  {
+    "stationId" : "53009",
+    "longitude" : 93,
+    "name" : "",
+    "latitude" : -12
+  },
+  {
+    "stationId" : "53040",
+    "longitude" : 95,
+    "name" : "",
+    "latitude" : -8
+  },
+  {
+    "stationId" : "53056",
+    "longitude" : 95,
+    "name" : "",
+    "latitude" : -5
+  },
+  {
+    "stationId" : "53057",
+    "longitude" : 90,
+    "name" : "",
+    "latitude" : -2
+  },
+  {
+    "stationId" : "53401",
+    "longitude" : 91.899,
+    "name" : "Indonesia",
+    "latitude" : 0.05
+  },
+  {
+    "stationId" : "5401000",
+    "longitude" : -179.797,
+    "name" : "NZC - Offshore Gisborne Hikurangi",
+    "latitude" : -38.2
+  },
+  {
+    "stationId" : "5401001",
+    "longitude" : -177.708,
+    "name" : "NZE - Offshore East Cape Kermadec",
+    "latitude" : -36.049
+  },
+  {
+    "stationId" : "5401002",
+    "longitude" : -175.012,
+    "name" : "NZF - Offshore Raoul Island Kermadec",
+    "latitude" : -29.683
+  },
+  {
+    "stationId" : "5401003",
+    "longitude" : -173.402,
+    "name" : "NZG - Offshore Tongatapu Tonga",
+    "latitude" : -23.352
+  },
+  {
+    "stationId" : "5401004",
+    "longitude" : -171.863,
+    "name" : "NZH - Offshore Niue Tonga",
+    "latitude" : -20.088
+  },
+  {
+    "stationId" : "5401005",
+    "longitude" : -171.191,
+    "name" : "NZI - Offshore Samoa Tonga",
+    "latitude" : -16.889
+  },
+  {
+    "stationId" : "54401",
+    "longitude" : -173.155,
+    "name" : "NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",
+    "latitude" : -33.109
+  },
+  {
+    "stationId" : "54d01",
+    "longitude" : -172.985,
+    "name" : "NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",
+    "latitude" : -33.005
+  },
+  {
+    "stationId" : "5501002",
+    "longitude" : 176.911,
+    "name" : "NZA - Offshore Wellington Hikurangi",
+    "latitude" : -42.371
+  },
+  {
+    "stationId" : "5501003",
+    "longitude" : 179.096,
+    "name" : "NZB - Offshore Hawke's Bay Hikurangi",
+    "latitude" : -40.599
+  },
+  {
+    "stationId" : "5501004",
+    "longitude" : 178.604,
+    "name" : "NZD - Offshore Bay of Plenty Kermadec",
+    "latitude" : -36.1
+  },
+  {
+    "stationId" : "5501005",
+    "longitude" : 163.955,
+    "name" : "NZJ - Offshore Norfolk Island New Hebrides",
+    "latitude" : -26.667
+  },
+  {
+    "stationId" : "5501006",
+    "longitude" : 169.499,
+    "name" : "NZK - Offshore New Caledonia New Hebrides",
+    "latitude" : -24.309
+  },
+  {
+    "stationId" : "5501007",
+    "longitude" : 166.782,
+    "name" : "NZL - Offshore Vanuatu New Hebrides",
+    "latitude" : -19.31
+  },
+  {
+    "stationId" : "55013",
+    "longitude" : 161.001,
+    "name" : "TASMAN SEA 3     -     1160km ESE of Hobart",
+    "latitude" : -46.665
+  },
+  {
+    "stationId" : "55015",
+    "longitude" : 160.343,
+    "name" : "TASMAN SEA 1     -     1110km ESE of Hobart",
+    "latitude" : -46.956
+  },
+  {
+    "stationId" : "55039",
+    "longitude" : 148.11,
+    "name" : "",
+    "latitude" : -38.36
+  },
+  {
+    "stationId" : "55042",
+    "longitude" : 161.7,
+    "name" : "Tasman Sea 2     -     1175km ESE of Hobart",
+    "latitude" : -44.79
+  },
+  {
+    "stationId" : "55401",
+    "longitude" : 160.562,
+    "name" : "600 NM Southeast of Hobart, Tasmania",
+    "latitude" : -46.922
+  },
+  {
+    "stationId" : "56001",
+    "longitude" : 110.028,
+    "name" : "Indian Ocean 1     -      1025km NW of Dampier",
+    "latitude" : -14.046
+  },
+  {
+    "stationId" : "56003",
+    "longitude" : 118.073,
+    "name" : "Indian Ocean 2     -     630km NNE of Dampier",
+    "latitude" : -15.019
+  },
+  {
+    "stationId" : "56053",
+    "longitude" : 81,
+    "name" : "",
+    "latitude" : -16
+  },
+  {
+    "stationId" : "56055",
+    "longitude" : 100,
+    "name" : "",
+    "latitude" : -25
+  },
+  {
+    "stationId" : "61001",
+    "longitude" : 7.8,
+    "name" : "Nice Buoy",
+    "latitude" : 43.4
+  },
+  {
+    "stationId" : "61002",
+    "longitude" : 4.703,
+    "name" : "Lion Buoy",
+    "latitude" : 42.102
+  },
+  {
+    "stationId" : "62001",
+    "longitude" : -5,
+    "name" : "Gascogne Buoy",
+    "latitude" : 45.23
+  },
+  {
+    "stationId" : "62027",
+    "longitude" : -2.218,
+    "name" : "Jersey Buoy, English Channel - 5 nm south of Jersey, UK",
+    "latitude" : 49.082
+  },
+  {
+    "stationId" : "62028",
+    "longitude" : -2.3,
+    "name" : "Weymouth Bay, UK",
+    "latitude" : 50.59
+  },
+  {
+    "stationId" : "62029",
+    "longitude" : -12.43,
+    "name" : "K1 Buoy",
+    "latitude" : 48.72
+  },
+  {
+    "stationId" : "62030",
+    "longitude" : -4.217,
+    "name" : "L4 Buoy",
+    "latitude" : 50.25
+  },
+  {
+    "stationId" : "62050",
+    "longitude" : -4.4,
+    "name" : "E1",
+    "latitude" : 50
+  },
+  {
+    "stationId" : "62052",
+    "longitude" : -5.6,
+    "name" : "",
+    "latitude" : 48.5
+  },
+  {
+    "stationId" : "62081",
+    "longitude" : -13.55,
+    "name" : "K2 Buoy",
+    "latitude" : 51
+  },
+  {
+    "stationId" : "62090",
+    "longitude" : -11.2,
+    "name" : "M1 - 50 NM West of Aran Islands",
+    "latitude" : 53.127
+  },
+  {
+    "stationId" : "62091",
+    "longitude" : -5.418,
+    "name" : "M2 - 20 NM East of Lambay",
+    "latitude" : 53.469
+  },
+  {
+    "stationId" : "62092",
+    "longitude" : -10.33,
+    "name" : "M3 - 30 NM Southwest of Mizen Head",
+    "latitude" : 51.13
+  },
+  {
+    "stationId" : "62093",
+    "longitude" : -10,
+    "name" : "M4 - Donegal Bay",
+    "latitude" : 55
+  },
+  {
+    "stationId" : "62094",
+    "longitude" : -6.42,
+    "name" : "M5 - South East",
+    "latitude" : 51.41
+  },
+  {
+    "stationId" : "62095",
+    "longitude" : -15.53,
+    "name" : "M6 - West Coast",
+    "latitude" : 53.04
+  },
+  {
+    "stationId" : "62105",
+    "longitude" : -11.81,
+    "name" : "K4 Buoy",
+    "latitude" : 55.41
+  },
+  {
+    "stationId" : "62108",
+    "longitude" : -19.5,
+    "name" : "K3 Buoy",
+    "latitude" : 53.5
+  },
+  {
+    "stationId" : "62163",
+    "longitude" : -8.47,
+    "name" : "Brittany Buoy",
+    "latitude" : 47.55
+  },
+  {
+    "stationId" : "62298",
+    "longitude" : -8.6,
+    "name" : "Celtic Sea Buoy",
+    "latitude" : 49.4
+  },
+  {
+    "stationId" : "62301",
+    "longitude" : -4.42,
+    "name" : "Aberporth Buoy",
+    "latitude" : 52.22
+  },
+  {
+    "stationId" : "62303",
+    "longitude" : -5.1,
+    "name" : "Pembroke Buoy",
+    "latitude" : 51.602
+  },
+  {
+    "stationId" : "62442",
+    "longitude" : -16.5,
+    "name" : "Pap",
+    "latitude" : 49
+  },
+  {
+    "stationId" : "64045",
+    "longitude" : -11.79,
+    "name" : "K5 Buoy",
+    "latitude" : 59.15
+  },
+  {
+    "stationId" : "64046",
+    "longitude" : -4.167,
+    "name" : "K7 Buoy",
+    "latitude" : 60.483
+  },
+  {
+    "stationId" : "97001",
+    "longitude" : -90,
+    "name" : "",
+    "latitude" : 30
+  },
+  {
+    "stationId" : "amps2",
+    "longitude" : -89.613,
+    "name" : "Payload Test (BUOY Set-Up)",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "cbcm2",
+    "longitude" : -76.54,
+    "name" : "Curtis Bay Ch. Entrance (8574837)",
+    "latitude" : 39.223
+  },
+  {
+    "stationId" : "darth",
+    "longitude" : -89.612,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "darti",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartj",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartk",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartl",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartm",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartn",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "darto",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartp",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartq",
+    "longitude" : -89.613,
+    "name" : "Test",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartr",
+    "longitude" : -89.612,
+    "name" : "TEST",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "darts",
+    "longitude" : -89.612,
+    "name" : "TEST",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartt",
+    "longitude" : -89.612,
+    "name" : "TEST",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "dartu",
+    "longitude" : -89.612,
+    "name" : "TEST",
+    "latitude" : 30.357
+  },
+  {
+    "stationId" : "eb01",
+    "longitude" : -73.5,
+    "name" : "",
+    "latitude" : 36.5
+  },
+  {
+    "stationId" : "eb10",
+    "longitude" : -88,
+    "name" : "",
+    "latitude" : 27.5
+  },
+  {
+    "stationId" : "eb31",
+    "longitude" : -86,
+    "name" : "",
+    "latitude" : 27
+  },
+  {
+    "stationId" : "eb32",
+    "longitude" : -84.3,
+    "name" : "",
+    "latitude" : 27
+  },
+  {
+    "stationId" : "eb33",
+    "longitude" : -141,
+    "name" : "",
+    "latitude" : 58.5
+  },
+  {
+    "stationId" : "eb35",
+    "longitude" : -157,
+    "name" : "",
+    "latitude" : 55.3
+  },
+  {
+    "stationId" : "eb36",
+    "longitude" : -84.8,
+    "name" : "",
+    "latitude" : 26
+  },
+  {
+    "stationId" : "eb43",
+    "longitude" : -142,
+    "name" : "",
+    "latitude" : 59.8
+  },
+  {
+    "stationId" : "eb52",
+    "longitude" : -74.3,
+    "name" : "",
+    "latitude" : 38.4
+  },
+  {
+    "stationId" : "eb53",
+    "longitude" : -88.3,
+    "name" : "",
+    "latitude" : 28.9
+  },
+  {
+    "stationId" : "eb62",
+    "longitude" : -85.6,
+    "name" : "",
+    "latitude" : 29
+  },
+  {
+    "stationId" : "eb70",
+    "longitude" : -142.3,
+    "name" : "",
+    "latitude" : 59.5
+  },
+  {
+    "stationId" : "eb90",
+    "longitude" : -130.9,
+    "name" : "BERING SEA",
+    "latitude" : 47
+  },
+  {
+    "stationId" : "eb91",
+    "longitude" : -74.3,
+    "name" : "",
+    "latitude" : 38.4
+  },
+  {
+    "stationId" : "eb92",
+    "longitude" : -90,
+    "name" : "",
+    "latitude" : 28.5
+  },
+  {
+    "stationId" : "frfn7",
+    "longitude" : -75.739,
+    "name" : "USACE-CHL Field Research Facility, Duck, NC",
+    "latitude" : 36.19
+  },
+  {
+    "stationId" : "nbba3",
+    "longitude" : -114.728,
+    "name" : "Lake Mead - North Boulder Basin",
+    "latitude" : 36.087
+  },
+  {
+    "stationId" : "nlma3",
+    "longitude" : -114.666,
+    "name" : "Lake Mohave - North",
+    "latitude" : 35.458
+  },
+  {
+    "stationId" : "sbbn2",
+    "longitude" : -114.748,
+    "name" : "Lake Mead - South Boulder Basin",
+    "latitude" : 36.05
+  },
+  {
+    "stationId" : "slmn2",
+    "longitude" : -114.621,
+    "name" : "Lake Mohave - South",
+    "latitude" : 35.389
+  },
+  {
+    "stationId" : "sm058",
+    "longitude" : -39.528,
+    "name" : "Woods Hole Test Camera",
+    "latitude" : 59.923
+  },
+  {
+    "stationId" : "ssbn7",
+    "longitude" : -78.484,
+    "name" : "Sunset Beach Nearshore Waves (SUN2WAVE)",
+    "latitude" : 33.838
+  },
+  {
+    "stationId" : "tfblk",
+    "longitude" : -24.778,
+    "name" : "10.0 nm WNW on Blakknes, Iceland",
+    "latitude" : 65.698
+  },
+  {
+    "stationId" : "vbba3",
+    "longitude" : -114.412,
+    "name" : "Lake Mead - Virgin Basin",
+    "latitude" : 36.132
+  },
+  {
+    "stationId" : "whoi2",
+    "longitude" : -70.555,
+    "name" : "Woods Hole Wave Test Station #2",
+    "latitude" : 41.339
+  }
+]
